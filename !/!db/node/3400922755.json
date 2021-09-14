@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3400922755",
+    "properties": {
+        "type": "node",
+        "id": "3400922755",
+        "tags": {
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7991596,
+            38.0828877
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3303393837",
+    "properties": {
+        "type": "node",
+        "id": "3303393837",
+        "tags": {
+            "name": "Oak Creek Bench",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8684878,
+            38.1759115
+        ]
+    }
+}

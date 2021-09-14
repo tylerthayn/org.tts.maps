@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "node/356674506",
+    "properties": {
+        "type": "node",
+        "id": "356674506",
+        "tags": {
+            "ele": "2326",
+            "gnis:county_id": "017",
+            "gnis:created": "12/31/1979",
+            "gnis:feature_id": "1433273",
+            "gnis:state_id": "49",
+            "name": "The Block",
+            "natural": "peak"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7257071,
+            38.0294307
+        ]
+    }
+}

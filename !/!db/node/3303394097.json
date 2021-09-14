@@ -1,0 +1,20 @@
+{
+    "type": "Feature",
+    "id": "node/3303394097",
+    "properties": {
+        "type": "node",
+        "id": "3303394097",
+        "tags": {
+            "natural": "spring"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.855546,
+            38.1612804
+        ]
+    }
+}

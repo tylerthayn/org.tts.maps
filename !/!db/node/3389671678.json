@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3389671678",
+    "properties": {
+        "type": "node",
+        "id": "3389671678",
+        "tags": {
+            "name": "Squaw Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7283912,
+            37.860823
+        ]
+    }
+}

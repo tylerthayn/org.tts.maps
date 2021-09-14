@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/1592193496",
+    "properties": {
+        "type": "node",
+        "id": "1592193496",
+        "tags": {
+            "name": "Stevens Narrows",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8908024,
+            38.0170653
+        ]
+    }
+}

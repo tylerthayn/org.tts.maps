@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3297726510",
+    "properties": {
+        "type": "node",
+        "id": "3297726510",
+        "tags": {
+            "name": "Star Flat",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8440277,
+            38.1058348
+        ]
+    }
+}

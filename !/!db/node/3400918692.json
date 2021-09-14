@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3400918692",
+    "properties": {
+        "type": "node",
+        "id": "3400918692",
+        "tags": {
+            "name": "South Summit Ridge",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8007076,
+            38.0672985
+        ]
+    }
+}

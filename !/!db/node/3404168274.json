@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3404168274",
+    "properties": {
+        "type": "node",
+        "id": "3404168274",
+        "tags": {
+            "man_made": "tower",
+            "tower:type": "communication"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7529895,
+            38.0468328
+        ]
+    }
+}

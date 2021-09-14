@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3391697925",
+    "properties": {
+        "type": "node",
+        "id": "3391697925",
+        "tags": {
+            "name": "Gold Creek Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.6587188,
+            37.8841677
+        ]
+    }
+}

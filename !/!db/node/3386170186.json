@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3386170186",
+    "properties": {
+        "type": "node",
+        "id": "3386170186",
+        "tags": {
+            "name": "Garden Basin",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.772562,
+            38.0391302
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3400918685",
+    "properties": {
+        "type": "node",
+        "id": "3400918685",
+        "tags": {
+            "name": "Head of Bullfrog",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8207344,
+            38.0277478
+        ]
+    }
+}

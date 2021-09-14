@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>star.kmz</name>
+	<Schema name="star" id="star">
+		<SimpleField type="string" name="stroke"></SimpleField>
+		<SimpleField type="int" name="stroke-width"></SimpleField>
+		<SimpleField type="int" name="stroke-opacity"></SimpleField>
+		<SimpleField type="string" name="fill"></SimpleField>
+		<SimpleField type="float" name="fill-opacity"></SimpleField>
+	</Schema>
+	<Style id="style">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffff55aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style0">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffff55aa</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>star</name>
+		<open>1</open>
+		<GroundOverlay>
+			<name>Untitled Image Overlay</name>
+			<open>1</open>
+			<Icon>
+				<href>files/_Tile0-0-0.jpg</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>38.12563749908799</north>
+				<south>38.11728297849371</south>
+				<east>-110.8091174696329</east>
+				<west>-110.8203264370651</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<styleUrl>#stylemap_id0</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#star">
+					<SimpleData name="stroke">#ea10d0</SimpleData>
+					<SimpleData name="stroke-width">2</SimpleData>
+					<SimpleData name="stroke-opacity">1</SimpleData>
+					<SimpleData name="fill">#09caec</SimpleData>
+					<SimpleData name="fill-opacity">0.5</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-110.816345214844,38.1195169034152,0 -110.815250873566,38.1187572417444,0 -110.815615653992,38.1198038846563,0 -110.816388130188,38.1185884269666,0 -110.815036296844,38.1193312090699,0 -110.816345214844,38.1195169034152,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

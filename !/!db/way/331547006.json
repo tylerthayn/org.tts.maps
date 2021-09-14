@@ -1,0 +1,51 @@
+{
+    "type": "Feature",
+    "id": "way/331547006",
+    "properties": {
+        "type": "way",
+        "id": 331547006,
+        "tags": {
+            "highway": "track",
+            "name": "Box Spring Road",
+            "official_ref": "CR 0213B",
+            "source": "http://recorded2477roads.utah.gov/garfield/b-roads/index.html",
+            "surface": "dirt",
+            "tracktype": "grade5"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -110.8046657,
+                38.015415
+            ],
+            [
+                -110.8047116,
+                38.0154524
+            ],
+            [
+                -110.8049043,
+                38.0155166
+            ],
+            [
+                -110.805112,
+                38.0156771
+            ],
+            [
+                -110.8055365,
+                38.0161244
+            ],
+            [
+                -110.8061838,
+                38.0170064
+            ],
+            [
+                -110.8065538,
+                38.0173262
+            ]
+        ]
+    }
+}

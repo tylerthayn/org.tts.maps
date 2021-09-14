@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Garmin Maps</name>
+	<open>1</open>
+	<GroundOverlay>
+		<name>Untitled Image Overlay</name>
+		<LookAt>
+			<gx:TimeStamp><when>2021-07-04T00:20:27Z</when>
+</gx:TimeStamp>
+			<longitude>-110.8143668502346</longitude>
+			<latitude>38.15345607254142</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1200</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<Icon>
+			<href>files/DryLake.jpg</href>
+			<viewBoundScale>0.75</viewBoundScale>
+		</Icon>
+		<LatLonBox>
+			<north>38.163543530391</north>
+			<south>38.14671485519803</south>
+			<east>-110.8009960803872</east>
+			<west>-110.8227844400201</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>

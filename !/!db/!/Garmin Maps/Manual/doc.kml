@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>Mt Ellen Spring Trail</name>
+	<drawOrder>51</drawOrder>
+	<Icon>
+		<href>files/Mt Ellen Spring.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>38.1291</north>
+		<south>38.1063</south>
+		<east>-110.7754</east>
+		<west>-110.8043</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

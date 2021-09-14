@@ -1,0 +1,32 @@
+{
+    "type": "Feature",
+    "id": "way/324352989",
+    "properties": {
+        "type": "way",
+        "id": 324352989,
+        "tags": {
+            "highway": "track",
+            "surface": "dirt",
+            "tracktype": "grade3"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -111.0661414,
+                38.094418
+            ],
+            [
+                -111.0660686,
+                38.0943187
+            ],
+            [
+                -111.0659663,
+                38.0942221
+            ]
+        ]
+    }
+}

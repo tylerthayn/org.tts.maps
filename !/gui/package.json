@@ -1,0 +1,52 @@
+{
+  "name": "@electron/tester",
+  "description": "The best project ever.",
+  "version": "0.1.0",
+  "homepage": "https://git.ttsx.xyz/org.tts.electron/tester",
+  "repository": {
+    "type": "git",
+    "url": "https://git.ttsx.xyz/org.tts.electron/tester"
+  },
+  "bugs": {
+    "url": {
+      "url": "https://git.ttsx.xyz/org.tts.electron/tester/issues"
+    }
+  },
+  "licenses": [
+    {
+      "type": {
+        "type": "MIT",
+        "url": "https://git.ttsx.xyz/org.tts.electron/tester/blob/master/LICENSE-MIT"
+      },
+      "url": "https://git.ttsx.xyz/org.tts.electron/tester/blob/master/LICENSE-[object Object]"
+    }
+  ],
+  "main": "src/main.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "@js/core": "1.0.1",
+    "@turf/turf": "^6.5.0",
+    "bootstrap": "4.6.0",
+    "cors": "^2.8.5",
+    "deasync": "^0.1.22",
+    "electron": "11.2.3",
+    "express": "^4.17.1",
+    "gpxparser": "^3.0.8",
+    "jquery": "3.5.1",
+    "jquery-ui": "1.12.1",
+    "lodash": "^4.17.21",
+    "lodash-tts": "^1.0.0",
+    "morgan": "^1.10.0",
+    "org.tts.js.lodash": "^1.0.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "keywords": [
+    ""
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3425239784",
+    "properties": {
+        "type": "node",
+        "id": "3425239784",
+        "tags": {
+            "name": "Cottonwood Pass",
+            "natural": "saddle"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8095638,
+            38.133011
+        ]
+    }
+}

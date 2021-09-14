@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<name>17</name>
+<open>1</open>
+<GroundOverlay>
+	<name>17</name>
+	<Icon>
+		<href>files/17.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>38.1344</north>
+		<south>38.1258</south>
+		<east>-110.79820000000001</east>
+		<west>-110.8092</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

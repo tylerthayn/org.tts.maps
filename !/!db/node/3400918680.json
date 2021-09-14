@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3400918680",
+    "properties": {
+        "type": "node",
+        "id": "3400918680",
+        "tags": {
+            "name": "Airplane Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8208527,
+            38.0017659
+        ]
+    }
+}

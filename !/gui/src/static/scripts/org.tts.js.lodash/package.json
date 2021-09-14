@@ -1,0 +1,46 @@
+{
+  "_from": "org.tts.js.lodash",
+  "_id": "org.tts.js.lodash@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-hNrijVQZC6fs4MM10ewKarkFuzuD9x5CQUi0TX+m4UJCpcBg/dWPTRfUb4HzFK+hBRaZuJELen5mYceNnvuZHA==",
+  "_location": "/org.tts.js.lodash",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "org.tts.js.lodash",
+    "name": "org.tts.js.lodash",
+    "escapedName": "org.tts.js.lodash",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/org.tts.js.lodash/-/org.tts.js.lodash-1.0.0.tgz",
+  "_shasum": "3ebb3157c2cdb94e91a02c82e9ea5a86b7ef206a",
+  "_spec": "org.tts.js.lodash",
+  "_where": "D:\\GITHUB\\Maps\\code",
+  "author": {
+    "name": "TTS Design",
+    "email": "ttsdesign@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "deprecated": false,
+  "description": "TTS Design's lodash extensions",
+  "keywords": [
+    "TTS Design",
+    "lodash",
+    "Core"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "org.tts.js.lodash",
+  "title": "TTS Design's lodash extensions",
+  "version": "1.0.0"
+}

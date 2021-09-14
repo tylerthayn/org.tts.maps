@@ -1,0 +1,52 @@
+html, body {
+	height: 100%;
+	overflow: hidden;
+}
+
+.Toolbar i {
+	cursor: pointer;
+}
+
+.Toolbar i:hover {
+	color: red;
+}
+
+ul.Points {
+    height: calc(100% - 36px);
+	overflow: auto;
+    overflow-y: scroll;
+	overflow-x: scroll;
+	padding: 0px;
+	margin: 0px;
+}
+ul.Points .ui-selected {
+	background: yellow;
+}
+ul.Points .ui-selecting {
+	background: red;
+}
+ul.Points .deleted {
+	display: none !important;
+}
+ul.Points .deletedx * {
+	display: none;
+}
+ul.Points li.Point {
+	width: 100%;
+	border: 1px solid black;
+	display: flex;
+	flex-direction: row;
+}
+
+ul.Points li.Point div {
+	border: 1px solid black;
+	padding: 4px;
+	width: 100px;
+	flex-grow: 1;
+}
+
+ul.Points li.Point div.Time {
+	width: 175px;
+	flex-grow: 2;
+}
+

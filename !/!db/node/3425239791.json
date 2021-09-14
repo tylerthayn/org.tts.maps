@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3425239791",
+    "properties": {
+        "type": "node",
+        "id": "3425239791",
+        "tags": {
+            "name": "Twin Springs",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7769058,
+            37.9061194
+        ]
+    }
+}

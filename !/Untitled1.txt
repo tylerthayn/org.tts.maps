@@ -1,0 +1,78 @@
+
+function LoadScript(u,c){var s=document.createElement('script');s.type='text/javascript';s.src=u;null!==c&&s.addEventListener('load',c);document.getElementsByTagName('head')[0].appendChild(s)}
+LoadScript('https://unpkg.com/@turf/turf@6/turf.min.js', () => {
+	window.Turf = turf
+	let tile = new TileImage(document.getElementsByTagName('img')[0])
+
+	window.tile = tile
+})
+
+function TileImage (e, box) {
+	this.e = e
+	this.box = {n: 0, e: 0, s: 0, w: 0}
+
+	this.canvas = document.createElement('canvas')
+	document.body.append(this.canvas)
+	this.canvas.style.position = 'fixed'
+	this.canvas.style.left = '0px'
+	this.canvas.style.top = '0px'
+	this.canvas.width = this.e.width
+	this.canvas.height = this.e.height
+
+	if (typeof box === 'undefined') {
+		let data = e.src.split('[')[1].split(']')[0].split(',').map(c=>{return parseFloat(c)})
+		this.box = {
+			w: data[0],
+			s: data[1],
+			e: data[2],
+			n: data[3]
+		}
+	} else if (typeof box === 'object') {
+		if (Array.isArray(box)) {
+			this.box = {
+				w: data[0],
+				s: data[1],
+				e: data[2],
+				n: data[3]
+			}
+		} else {
+			this.box = {
+				s: box.s,
+				w: box.w,
+				n: box.n,
+				e: box.e
+			}
+		}
+	}
+
+	this._box = {
+		n: Turf.toMercator([this.box.e, this.box.n])[1],
+		e: Turf.toMercator([this.box.e, this.box.n])[0],
+		s: Turf.toMercator([this.box.w, this.box.s])[1],
+		w: Turf.toMercator([this.box.w, this.box.s])[0]
+	}
+
+	this.ctx = this.canvas.getContext('2d')
+	this.ctx.drawImage(this.e, 0, 0)
+
+	return this
+}
+
+TileImage.prototype.getPixel = function (point) {
+	let xy = Turf.toMercator(point)
+	log(`${this._box.e < this._box.w ? L(this._box.e, 1) : L(this._box.w, 2)} :: ${xy[0]} :: ${this._box.e < this._box.w ? this._box.w : this._box.e}`)
+	log(`${this._box.n < this._box.s ? this._box.n : this._box.s} :: ${xy[1]} :: ${this._box.n < this._box.s ? this._box.s : this._box.n}`)
+
+	let ratio = [
+		this._box.e < this._box.w ? (this._box.w - xy[0])  : (this._box.e - xy[0]) ,
+		this._box.n > this._box.s ? (this._box.n - xy[1])  : (this._box.s - xy[1])
+	]
+
+	return ratio // [ratio[0] * this.e.width, ratio[1] * this.e.height]
+
+}
+
+function L(p, msg) {
+	console.log(msg)
+	return p
+}

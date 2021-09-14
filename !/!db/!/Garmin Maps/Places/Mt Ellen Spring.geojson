@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+	"name": "Mt Ellen Spring",
+	"marker-color": "#0000ff",
+	"marker-size": "small",
+	"marker-symbol": "water"
+  },
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  -110.798386,
+	  38.121129
+	]
+  }
+}

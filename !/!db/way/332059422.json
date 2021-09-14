@@ -1,0 +1,31 @@
+{
+    "type": "Feature",
+    "id": "way/332059422",
+    "properties": {
+        "type": "way",
+        "id": 332059422,
+        "tags": {
+            "intermittent": "yes",
+            "layer": "-1",
+            "name": "Star Creek",
+            "source": "Bing",
+            "tunnel": "culvert",
+            "waterway": "stream"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -110.6541016,
+                37.852681
+            ],
+            [
+                -110.6540051,
+                37.8525635
+            ]
+        ]
+    }
+}

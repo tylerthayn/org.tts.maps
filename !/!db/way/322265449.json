@@ -1,0 +1,28 @@
+{
+    "type": "Feature",
+    "id": "way/322265449",
+    "properties": {
+        "type": "way",
+        "id": 322265449,
+        "tags": {
+            "layer": "-1",
+            "source": "Bing",
+            "waterway": "ditch"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -111.0987069,
+                38.0709921
+            ],
+            [
+                -111.0986446,
+                38.0709931
+            ]
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3425239787",
+    "properties": {
+        "type": "node",
+        "id": "3425239787",
+        "tags": {
+            "name": "Elk Head Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8205478,
+            37.98071
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3298416978",
+    "properties": {
+        "type": "node",
+        "id": "3298416978",
+        "tags": {
+            "intermittent": "yes",
+            "waterway": "waterfall"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.9481081,
+            37.9273643
+        ]
+    }
+}

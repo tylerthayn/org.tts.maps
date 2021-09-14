@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3402804064",
+    "properties": {
+        "type": "node",
+        "id": "3402804064",
+        "tags": {
+            "name": "Twin Seeps",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.6957082,
+            38.1280723
+        ]
+    }
+}

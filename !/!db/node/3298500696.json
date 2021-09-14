@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3298500696",
+    "properties": {
+        "type": "node",
+        "id": "3298500696",
+        "tags": {
+            "name": "Dripping Rock Seep",
+            "natural": "spring"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.9780602,
+            38.0955476
+        ]
+    }
+}

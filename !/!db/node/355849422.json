@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "id": "node/355849422",
+    "properties": {
+        "type": "node",
+        "id": "355849422",
+        "tags": {
+            "highway": "motorway_junction",
+            "old_ref": "114",
+            "ref": "116",
+            "source": "Wikipedia"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.9089142,
+            38.8536227
+        ]
+    }
+}

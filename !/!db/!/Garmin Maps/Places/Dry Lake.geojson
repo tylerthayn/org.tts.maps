@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+	"name": "Dry Lake",
+	"marker-color": "#0000ff",
+	"marker-size": "small",
+	"marker-symbol": "star-stroked"
+  },
+  "geometry": {
+	"type": "Point",
+	"coordinates": [
+	  -110.814542,
+	   38.153500
+	]
+  }
+}

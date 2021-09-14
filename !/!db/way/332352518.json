@@ -1,0 +1,31 @@
+{
+    "type": "Feature",
+    "id": "way/332352518",
+    "properties": {
+        "type": "way",
+        "id": 332352518,
+        "tags": {
+            "intermittent": "yes",
+            "layer": "-1",
+            "name": "Straight Creek",
+            "source": "Bing",
+            "tunnel": "culvert",
+            "waterway": "stream"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -110.7605713,
+                37.9496015
+            ],
+            [
+                -110.7604886,
+                37.9495948
+            ]
+        ]
+    }
+}

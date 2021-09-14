@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3425239785",
+    "properties": {
+        "type": "node",
+        "id": "3425239785",
+        "tags": {
+            "name": "Dry Lakes Area",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8070982,
+            38.1584114
+        ]
+    }
+}

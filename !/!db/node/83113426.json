@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "id": "node/83113426",
+    "properties": {
+        "type": "node",
+        "id": "83113426",
+        "tags": {
+            "ele": "2816",
+            "mountain_pass": "yes",
+            "name": "Wickiup Pass",
+            "natural": "saddle"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7786088,
+            38.0950327
+        ]
+    }
+}

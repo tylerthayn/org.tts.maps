@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3400918690",
+    "properties": {
+        "type": "node",
+        "id": "3400918690",
+        "tags": {
+            "name": "Sidehill Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7689736,
+            37.9201049
+        ]
+    }
+}

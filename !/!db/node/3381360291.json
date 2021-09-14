@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3381360291",
+    "properties": {
+        "type": "node",
+        "id": "3381360291",
+        "tags": {
+            "name": "Brinkerhof Spring",
+            "natural": "spring"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -111.1144111,
+            37.9766757
+        ]
+    }
+}

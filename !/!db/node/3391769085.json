@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3391769085",
+    "properties": {
+        "type": "node",
+        "id": "3391769085",
+        "tags": {
+            "name": "Chucker Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.6934274,
+            37.8294957
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3402804063",
+    "properties": {
+        "type": "node",
+        "id": "3402804063",
+        "tags": {
+            "name": "Poison Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.6534917,
+            38.1413191
+        ]
+    }
+}

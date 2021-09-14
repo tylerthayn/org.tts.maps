@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3306737168",
+    "properties": {
+        "type": "node",
+        "id": "3306737168",
+        "tags": {
+            "name": "Sawmill Basin",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7714907,
+            38.1159116
+        ]
+    }
+}

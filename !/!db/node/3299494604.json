@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3299494604",
+    "properties": {
+        "type": "node",
+        "id": "3299494604",
+        "tags": {
+            "name": "Nasty Flat",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8187754,
+            38.0674604
+        ]
+    }
+}

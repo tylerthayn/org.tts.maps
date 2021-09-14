@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3299494606",
+    "properties": {
+        "type": "node",
+        "id": "3299494606",
+        "tags": {
+            "name": "Willow Spring",
+            "natural": "spring"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8407143,
+            38.070427
+        ]
+    }
+}

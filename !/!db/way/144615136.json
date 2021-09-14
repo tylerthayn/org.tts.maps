@@ -1,0 +1,34 @@
+{
+    "type": "Feature",
+    "id": "way/144615136",
+    "properties": {
+        "type": "way",
+        "id": 144615136,
+        "tags": {
+            "highway": "track",
+            "surface": "unpaved",
+            "tiger:cfcc": "A41",
+            "tiger:county": "Garfield, UT",
+            "tracktype": "grade5"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -111.0755705,
+                38.0810534
+            ],
+            [
+                -111.0718282,
+                38.0780357
+            ],
+            [
+                -111.0709304,
+                38.0775583
+            ]
+        ]
+    }
+}

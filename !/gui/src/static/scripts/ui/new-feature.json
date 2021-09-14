@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "id": "way/10100558",
+    "properties": {
+        "type": "way",
+        "id": 10100558,
+        "tags": {
+		    "intermittent": "yes",
+            "natural": "water",
+            "source": "Bing",
+            "water": "pond"
+
+
+            "highway": "track",
+            "note": "",
+            "source": "TTT",
+            "surface": "dirt",
+            "tracktype": "grade5"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [[]]
+    }
+}

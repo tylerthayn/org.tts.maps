@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "node/356672437",
+    "properties": {
+        "type": "node",
+        "id": "356672437",
+        "tags": {
+            "ele": "3002",
+            "gnis:county_id": "017",
+            "gnis:created": "12/31/1979",
+            "gnis:feature_id": "1426886",
+            "gnis:state_id": "49",
+            "name": "Corral Point",
+            "natural": "peak"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8242012,
+            38.0901836
+        ]
+    }
+}

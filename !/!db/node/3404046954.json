@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3404046954",
+    "properties": {
+        "type": "node",
+        "id": "3404046954",
+        "tags": {
+            "man_made": "adit",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7899673,
+            38.0670553
+        ]
+    }
+}

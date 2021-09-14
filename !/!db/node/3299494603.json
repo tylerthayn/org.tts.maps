@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3299494603",
+    "properties": {
+        "type": "node",
+        "id": "3299494603",
+        "tags": {
+            "name": "Dry Lake Flat",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8271719,
+            38.0624589
+        ]
+    }
+}

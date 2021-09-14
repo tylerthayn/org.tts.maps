@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3400918688",
+    "properties": {
+        "type": "node",
+        "id": "3400918688",
+        "tags": {
+            "name": "Pistol Ridge",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8246585,
+            38.1031631
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "node/356674630",
+    "properties": {
+        "type": "node",
+        "id": "356674630",
+        "tags": {
+            "ele": "2182",
+            "gnis:county_id": "017",
+            "gnis:created": "12/31/1979",
+            "gnis:feature_id": "1433705",
+            "gnis:state_id": "49",
+            "name": "Turn of Bullfrog",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.858601,
+            37.9931829
+        ]
+    }
+}

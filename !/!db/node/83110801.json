@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/83110801",
+    "properties": {
+        "type": "node",
+        "id": "83110801",
+        "tags": {
+            "junction": "yes",
+            "name": "Crescent Creek Junction"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.760853,
+            38.0734696
+        ]
+    }
+}

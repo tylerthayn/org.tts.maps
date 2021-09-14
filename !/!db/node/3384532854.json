@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3384532854",
+    "properties": {
+        "type": "node",
+        "id": "3384532854",
+        "tags": {
+            "name": "Starr Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.6644628,
+            37.8509273
+        ]
+    }
+}

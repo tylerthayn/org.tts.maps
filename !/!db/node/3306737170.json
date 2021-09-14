@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3306737170",
+    "properties": {
+        "type": "node",
+        "id": "3306737170",
+        "tags": {
+            "name": "Wickiup Ridge",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7739429,
+            38.1036889
+        ]
+    }
+}

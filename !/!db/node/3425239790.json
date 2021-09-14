@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3425239790",
+    "properties": {
+        "type": "node",
+        "id": "3425239790",
+        "tags": {
+            "name": "Horseshoe Ridge",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.784369,
+            38.1398216
+        ]
+    }
+}

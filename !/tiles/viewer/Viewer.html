@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Viewer Zoom=${zoom}</title>
+<link rel="Stylesheet" href="styles.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="13.js"></script>
+<style>
+.Map {
+	width: 100%;
+	height: 100%;
+}
+</style>
+<script>
+let type = 'satellite-v9'
+
+function Center(bounds) {
+	return [
+		bounds[0] + (bounds[2] - bounds[0]) / 2,
+		bounds[1] + (bounds[3] - bounds[2]) / 2
+	]
+}
+
+$(() => {
+	DATA.bounds = [DATA.bounds[1], DATA.bounds[0], DATA.bounds[3], DATA.bounds[2]]
+	DATA.tiles.forEach(tile => {
+		let x = $('.Map').width * (Center(tile.bounds)[0] - DATA.bounds[0])/(DATA.bounds[2] - DATA.bounds[0])
+		let y = $('.Map').height * (1 - (Center(tile.bounds)[1] - DATA.bounds[1])/(DATA.bounds[3] - DATA.bounds[1]))
+		let w = (tile.bounds[2] - tile.bounds[0])/(DATA.bounds[2] - DATA.bounds[0]) * 1024
+		let h = (tile.bounds[3] - tile.bounds[1])/(DATA.bounds[3] - DATA.bounds[1]) * 1024
+
+		let img = $('<img src="../images/'+type+'/'+tile.key+'.jpg" style="width:'+w+'px;height:'+h+'px;position: fixed;top: '+y+'px;left:'+x+'px"/>')
+		$('.Map').append(img)
+	})
+})
+</script>
+</head>
+<body>
+
+<div class="Map"></div>
+  
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3403942505",
+    "properties": {
+        "type": "node",
+        "id": "3403942505",
+        "tags": {
+            "name": "Pyserts Hole",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.698309,
+            38.0342409
+        ]
+    }
+}

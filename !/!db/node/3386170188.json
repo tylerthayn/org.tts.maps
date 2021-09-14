@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3386170188",
+    "properties": {
+        "type": "node",
+        "id": "3386170188",
+        "tags": {
+            "name": "Slate Flat",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7909653,
+            38.0284777
+        ]
+    }
+}

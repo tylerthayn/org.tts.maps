@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3400918689",
+    "properties": {
+        "type": "node",
+        "id": "3400918689",
+        "tags": {
+            "name": "Quaking Aspen Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7089989,
+            37.9237745
+        ]
+    }
+}

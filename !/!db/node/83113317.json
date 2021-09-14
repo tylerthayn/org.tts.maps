@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "id": "node/83113317",
+    "properties": {
+        "type": "node",
+        "id": "83113317",
+        "tags": {
+            "ele": "3196",
+            "mountain_pass": "yes",
+            "name": "Bull Creek Pass",
+            "natural": "saddle"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8024522,
+            38.0857469
+        ]
+    }
+}

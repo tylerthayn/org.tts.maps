@@ -1,0 +1,29 @@
+{
+    "type": "Feature",
+    "id": "way/323900599",
+    "properties": {
+        "type": "way",
+        "id": 323900599,
+        "tags": {
+            "man_made": "pipeline",
+            "source": "Bing",
+            "type": "water",
+            "waterway": "ditch"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -110.7487079,
+                38.1939156
+            ],
+            [
+                -110.7487367,
+                38.194265
+            ]
+        ]
+    }
+}

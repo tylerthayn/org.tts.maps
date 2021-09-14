@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3229765488",
+    "properties": {
+        "type": "node",
+        "id": "3229765488",
+        "tags": {
+            "name": "Lost Spring",
+            "natural": "spring"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8475781,
+            38.1845949
+        ]
+    }
+}

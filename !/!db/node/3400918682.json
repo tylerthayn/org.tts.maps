@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3400918682",
+    "properties": {
+        "type": "node",
+        "id": "3400918682",
+        "tags": {
+            "name": "Bromide Basin",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7951644,
+            38.0646536
+        ]
+    }
+}

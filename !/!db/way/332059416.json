@@ -1,0 +1,31 @@
+{
+    "type": "Feature",
+    "id": "way/332059416",
+    "properties": {
+        "type": "way",
+        "id": 332059416,
+        "tags": {
+            "intermittent": "yes",
+            "layer": "-1",
+            "name": "Gold Creek",
+            "source": "Bing",
+            "tunnel": "culvert",
+            "waterway": "stream"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -110.6531664,
+                37.8569804
+            ],
+            [
+                -110.6530492,
+                37.856963
+            ]
+        ]
+    }
+}

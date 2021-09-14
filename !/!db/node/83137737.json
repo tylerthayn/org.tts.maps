@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/83137737",
+    "properties": {
+        "type": "node",
+        "id": "83137737",
+        "tags": {
+            "mountain_pass": "yes",
+            "name": "Pennellen Pass"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8089375,
+            38.0099213
+        ]
+    }
+}

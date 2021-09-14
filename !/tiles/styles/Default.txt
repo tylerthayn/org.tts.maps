@@ -1,0 +1,75 @@
+magick convert -size 1024x1024 xc:black -fill transparent -stroke "#ff0000bb" -strokewidth 15 -draw "polyline 0,100 100,100 125,125" -stroke "#41AEE4ff" -strokewidth 11 -draw "polyline 0,100 100,100 125,125" -stroke "#41AEE4ff" -strokewidth 13 -draw "polyline 0,200 100,200 125,225" -stroke "#41AEE4ff" -strokewidth 13 -draw "polyline 0,300 100,300 125,325" -stroke "#0000ffcc" -strokewidth 4 -draw "polyline 0,300 100,300 125,325" -stroke "#fbfbfbaa" -strokewidth 20 -draw "polyline 0,400 100,400 125,425" -stroke "#fffffbaa" -strokewidth 16 -draw "polyline 0,400 100,400 125,425" -stroke "#000000aa" -strokewidth 13 -draw "polyline 0,400 100,400 125,425" -stroke "#fbfbfbaa" -strokewidth 20 -draw "polyline 0,500 100,500 125,525" -stroke "#fffffbaa" -strokewidth 16 -draw "polyline 0,500 100,500 125,525" -stroke "#964B00aa" -strokewidth 13 -draw "polyline 0,500 100,500 125,525" -stroke "#fbfbfbaa" -strokewidth 12 -draw "polyline 0,600 100,600 125,625" -stroke "#fffffbaa" -strokewidth 9 -draw "polyline 0,600 100,600 125,625" -stroke "#964B0088" -strokewidth 13 -draw "polyline 0,600 100,600 125,625" -stroke "#fffffbaa" -strokewidth 9 -draw "polyline 0,700 100,700 125,725" -stroke "#964B0044" -strokewidth 6 -draw "polyline 0,700 100,700 125,725" -stroke "#ff00ffaa" -strokewidth 12 -draw "polyline 0,800 100,800 125,825" -stroke "#fffffbaa" -strokewidth 9 -draw "polyline 0,800 100,800 125,825" -stroke "#964B0044" -strokewidth 6 -draw "polyline 0,800 100,800 125,825" -strokewidth 10 -fill "#ff0000aa" -stroke "#41AEE4aa" -draw "circle 200,100 190,90" -strokewidth 10 -fill "#000000aa" -stroke "#41AEE4aa" -draw "circle 200,200 190,190" -strokewidth 10 -fill "#0000ffaa" -stroke "#41AEE4aa" -draw "circle 200,300 190,290" test.png
+
+/*************************/
+magick convert -size 1024x1024 xc:black -fill transparent 
+
+/* Water.Inactive */
+-stroke "#ff0000bb" -strokewidth 15 -draw "polyline 0,100 100,100 125,125" 
+-stroke "#41AEE4ff" -strokewidth 11 -draw "polyline 0,100 100,100 125,125"
+
+/* Stream */
+-stroke "#41AEE4ff" -strokewidth 13 -draw "polyline 0,200 100,200 125,225"
+
+/* Creek */
+-stroke "#41AEE4ff" -strokewidth 13 -draw "polyline 0,300 100,300 125,325"
+-stroke "#0000ffcc" -strokewidth 4 -draw "polyline 0,300 100,300 125,325"
+
+/* Spirng.Inactive */
+-strokewidth 10 -fill "#ff0000aa" -stroke "#41AEE4aa" -draw "circle 200,100 190,90"
+
+/* Spring.Capped */
+-strokewidth 10 -fill "#000000aa" -stroke "#41AEE4aa" -draw "circle 200,200 190,190"
+
+/* Spring */
+-strokewidth 10 -fill "#0000ffaa" -stroke "#41AEE4aa" -draw "circle 200,300 190,290"
+-fill transparent
+
+?* Road.Paved */
+-stroke "#fbfbfbaa" -strokewidth 20 -draw "polyline 0,400 100,400 125,425"
+-stroke "#fffffbaa" -strokewidth 16 -draw "polyline 0,400 100,400 125,425"
+-stroke "#000000aa" -strokewidth 13 -draw "polyline 0,400 100,400 125,425"
+
+/* Road.Dirt */
+-stroke "#fbfbfbaa" -strokewidth 20 -draw "polyline 0,500 100,500 125,525"
+-stroke "#fffffbaa" -strokewidth 16 -draw "polyline 0,500 100,500 125,525"
+-stroke "#964B00aa" -strokewidth 13 -draw "polyline 0,500 100,500 125,525"
+
+/* Road.ATV */
+-stroke "#fbfbfbaa" -strokewidth 12 draw "polyline 0,600 100,600 125,625"
+-stroke "#fffffbaa" -strokewidth 9 draw "polyline 0,600 100,600 125,625"
+-stroke "#964B0088" -strokewidth 13 draw "polyline 0,600 100,600 125,625"
+
+/* Road.Trail */
+-stroke "#fffffbaa" -strokewidth 9 -draw "polyline 0,700 100,700 125,725"
+-stroke "#964B0044" -strokewidth 6 -draw "polyline 0,700 100,700 125,725"
+
+/* Road.Neon */
+-stroke "#ff00ffaa" -strokewidth 12 -draw "polyline 0,800 100,800 125,825"
+-stroke "#fffffbaa" -strokewidth 9 -draw "polyline 0,800 100,800 125,825"
+-stroke "#964B0044" -strokewidth 6 -draw "polyline 0,800 100,800 125,825"
+
+test.png
+
+
+
+
+light blue = #41AEE4ff
+
+test.png
+
+magick convert -size 1024x1024 xc:none -fill transparent -stroke "#ff0000bb" -strokewidth 15 -draw "polyline 0,100 100,100 125,125" -stroke "#41AEE4ff" -strokewidth 12 -draw "polyline 0,100 100,100 125,125" -stroke "#0000ffcc" -strokewidth 3 -draw "polyline 0,100 100,100 125,125" -stroke "#41AEE4ff" -strokewidth 15 -draw "polyline 0,200 100,200 125,225" -stroke "#0000ffaa" -strokewidth 3 -draw "polyline 0,200 100,200 125,225" -stroke "#fbfbfbaa" -strokewidth 20 -draw "polyline 0,300 100,300 125,325" -stroke "#fffffbaa" -strokewidth 16 -draw "polyline 0,300 100,300 125,325" -stroke "#000000aa" -strokewidth 13 -draw "polyline 0,300 100,300 125,325" -stroke "#fbfbfbaa" -strokewidth 20 -draw "polyline 0,300 100,400 125,425" -stroke "#fffffbaa" -strokewidth 16 -draw "polyline 0,300 100,400 125,425" -stroke "#964B00aa" -strokewidth 13 -draw "polyline 0,400 100,400 125,425"
+
+-stroke "#fffffbaa" -strokewidth 16 -draw "polyline 0,400 100,400 125,425"
+-stroke "#000000aa" -strokewidth 13 -draw "polyline 0,300 100,300 125,325" -stroke "#ffffffaa" -strokewidth 4 -draw "polyline 0,300 100,300 125,325" test.png
+
+
+
+
+-stroke "#00ff00aa" -strokewidth 3 -draw "polyline 0,300 300,300 325,325"
+
+-stroke "#41AEE4ff" -strokewidth 15 -draw "polyline 0,300 300,300 325,325" -stroke "#0000ffcc" -strokewidth 4 -draw "polyline 0,300 300,300 325,325" PNG32:test.png
+
+
+magick convert -size 1024x1024 xc:none -fill transparent -stroke "#41AEE4ff" -strokewidth 18 -draw "polyline 0,0, 100,100 200,100 1024,1024 750,100 0,0" PNG32:test-fill.png
+magick convert -size 1024x1024 xc:none -fill transparent -stroke "#0000ffff" -strokewidth 4 -draw "polyline 0,0, 100,100 200,100 1024,1024 750,100 0,0" PNG32:test-inner.png
+magick convert -size 1024x1024 xc:none -page +0+9 test-outline.png -page +0+0 test-fill.png -page +0+0 test-inner.png -layers flatten test.gif

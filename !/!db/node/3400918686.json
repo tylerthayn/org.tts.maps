@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3400918686",
+    "properties": {
+        "type": "node",
+        "id": "3400918686",
+        "tags": {
+            "name": "Mud Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7479989,
+            37.9182617
+        ]
+    }
+}

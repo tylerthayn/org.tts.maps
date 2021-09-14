@@ -1,0 +1,34 @@
+{
+    "type": "Feature",
+    "id": "way/145928490",
+    "properties": {
+        "type": "way",
+        "id": 145928490,
+        "tags": {
+            "highway": "track",
+            "official_ref": "CR 0213B",
+            "source": "http://recorded2477roads.utah.gov/garfield/b-roads/index.html",
+            "surface": "dirt",
+            "tracktype": "grade3"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -110.8086231,
+                38.0120975
+            ],
+            [
+                -110.8080635,
+                38.0120543
+            ],
+            [
+                -110.8072091,
+                38.0120543
+            ]
+        ]
+    }
+}

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	
+	<StyleMap id="Road"><Pair><key>normal</key><Style><LineStyle>
+		<color>bbbbffff</color>
+		<width>5</width>
+		</LineStyle><ListStyle><bgColor>ffffffff</bgColor><ItemIcon><state>open closed error</state><href>images/black-line.png</href></ItemIcon></ListStyle></Style></Pair><Pair><key>highlight</key><styleUrl>#hl</styleUrl></Pair>
+	</StyleMap>
+	<StyleMap id="Road_Vehicle"><Pair><key>normal</key><Style><LineStyle>
+		<color>bbbbffff</color>
+		<width>8</width>
+		</LineStyle><ListStyle><bgColor>ffffffff</bgColor><ItemIcon><state>open closed error</state><href>images/black-line.png</href></ItemIcon></ListStyle></Style></Pair><Pair><key>highlight</key><styleUrl>#hl</styleUrl></Pair>
+	</StyleMap>
+	<StyleMap id="Road_ATV"><Pair><key>normal</key><Style><LineStyle>
+		<color>bbbbffff</color>
+		<width>6</width>
+		</LineStyle><ListStyle><bgColor>ffffffff</bgColor><ItemIcon><state>open closed error</state><href>images/black-line.png</href></ItemIcon></ListStyle></Style></Pair><Pair><key>highlight</key><styleUrl>#hl</styleUrl></Pair>
+	</StyleMap>
+	<StyleMap id="Road_Trail"><Pair><key>normal</key><Style><LineStyle>
+		<color>bbbbffff</color>
+		<width>3</width>
+		</LineStyle><ListStyle><bgColor>ffffffff</bgColor><ItemIcon><state>open closed error</state><href>images/black-line.png</href></ItemIcon></ListStyle></Style></Pair><Pair><key>highlight</key><styleUrl>#hl</styleUrl></Pair>
+	</StyleMap>
+	<StyleMap id="Road_Hike"><Pair><key>normal</key><Style><LineStyle>
+		<color>bbff00ff</color>
+		<width>3</width>
+		</LineStyle><ListStyle><bgColor>ffffffff</bgColor><ItemIcon><state>open closed error</state><href>images/purple-line.png</href></ItemIcon></ListStyle></Style></Pair><Pair><key>highlight</key><styleUrl>#hl</styleUrl></Pair>
+	</StyleMap>
+
+	
+	<StyleMap id="Spring">
+		<Pair>
+			<key>normal</key>
+			<Style>
+				<IconStyle>
+					<scale>0.75</scale>
+					<Icon>
+						<href>images/Spring.png</href>
+					</Icon>
+					<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+				</IconStyle>
+				<LabelStyle><scale>0.7</scale></LabelStyle>
+				<ListStyle>
+					<bgColor>ffffffff</bgColor>
+					<ItemIcon>
+						<state>open closed error</state>
+						<href>images/Spring.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Waterway">
+		<Pair>
+			<key>normal</key>
+			<Style>
+				<LineStyle>
+					<color>bbff0000</color>
+					<width>5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>bbff0000</color>
+				</PolyStyle>
+				<ListStyle>
+					<bgColor>ffffffff</bgColor>
+					<ItemIcon>
+						<state>open closed error</state>
+						<href>images/blue-line.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Waterway_USGS">
+		<Pair>
+			<key>normal</key>
+			<Style>
+				<LineStyle>
+					<color>bbff0000</color>
+					<width>5</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>bbff0000</color>
+				</PolyStyle>
+				<ListStyle>
+					<bgColor>ffffffff</bgColor>
+					<ItemIcon>
+						<state>open closed error</state>
+						<href>images/blue-line.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+</Document>
+</kml>

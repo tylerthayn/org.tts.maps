@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3402804061",
+    "properties": {
+        "type": "node",
+        "id": "3402804061",
+        "tags": {
+            "name": "Granite Hole",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.75442,
+            38.1044786
+        ]
+    }
+}

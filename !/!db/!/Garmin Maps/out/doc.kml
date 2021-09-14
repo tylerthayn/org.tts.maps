@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>9</name>
+	<drawOrder>52</drawOrder>
+	<Icon>
+		<href>files/9.jpg</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>38.143</north>
+		<south>38.1344</south>
+		<east>-110.7872</east>
+		<west>-110.7982</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

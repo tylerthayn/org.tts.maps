@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3425239786",
+    "properties": {
+        "type": "node",
+        "id": "3425239786",
+        "tags": {
+            "name": "East Saddle",
+            "natural": "saddle"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8006919,
+            38.1295653
+        ]
+    }
+}

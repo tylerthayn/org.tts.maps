@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/6224297079",
+    "properties": {
+        "type": "node",
+        "id": "6224297079",
+        "tags": {
+            "light_rail": "yes",
+            "public_transport": "stop_position",
+            "railway": "stop"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.726426,
+            38.0746833
+        ]
+    }
+}

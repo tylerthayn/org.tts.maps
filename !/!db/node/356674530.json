@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "node/356674530",
+    "properties": {
+        "type": "node",
+        "id": "356674530",
+        "tags": {
+            "ele": "2778",
+            "gnis:county_id": "017",
+            "gnis:created": "12/31/1979",
+            "gnis:feature_id": "1433342",
+            "gnis:state_id": "49",
+            "name": "The Horn",
+            "natural": "peak"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7982091,
+            37.9991532
+        ]
+    }
+}
