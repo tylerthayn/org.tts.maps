@@ -1,0 +1,386 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>org.tts.js.Maps :: Code</title>
+<link rel="stylesheet" href="../styles/jquery-ui.css">
+<link rel="stylesheet" href="../styles/bootstrap.css">
+<link rel="stylesheet" href="../styles/org.tts.css">
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/jquery-ui.js"></script>
+<script src="../scripts/bootstrap.js"></script>
+<script src="../scripts/lodash.js"></script>
+<script src="../scripts/org.tts.js.lodash.js"></script>
+<style>
+li.Folder {	list-style-image: url(../images/folder_open_black_24dp.svg);}
+li.File {list-style-image: url(../images/description_black_24dp.svg);}
+
+body > ul {display: block !important;}
+ul.Accordion {font-size: 1.5em;}
+ul.Accordion li {cursor: pointer;}
+li {font-size: 90%;}
+ul.Code {list-style:none;padding:0;margin:0;}
+ul.Accordion > li > ul > li {padding-left: 16px;}
+ul.Accordion > li > ul > li > ul.Code > li {margin-left: 26px;}
+ul.Accordion > li > ul > li > ul > li > ul.Code > li {margin-left: 36px;}
+ul.Notes
+li.Folder {list-style-image: url(../images/folder_open_black_24dp.svg)}
+li.File {list-style-image: url(../images/description_black_24dp.svg)}
+li.Note::before {content: "!";padding-right: 8px;}
+li.Property::before {content: "-";padding-right: 8px;}
+li.Object::before {content: "{}";padding-right: 8px;}
+li.Array::before {content: "[]";padding-right: 8px;}
+li.Class::before {content: "{*}";padding-right: 8px;}
+li.Function::before {content: "()";padding-right: 8px;}
+li.Property.Number::before {content: "#";padding-right: 8px;}
+li.Property.String::before {content: "''";padding-right: 8px;}
+li.Static::before {content: "@";padding-right: 8px;}
+li.Static.Function::before {content: "(@)";padding-right: 8px;}
+li.Potential {color:orange;}
+
+code {white-space:pre;}
+</style>
+<script>
+$(() => {
+	$('ul.Accordion ul').each((i, e) => {
+		if (!$(e).hasClass('Opened')) {
+			$(e).css('display', 'none')
+		}
+	})
+	//$('ul.Accordion li').on('dblclick', (e) => {
+	//	e.stopPropagation()
+	//	$(e.target).find('ul').animate({height:"toggle"}, () => {})
+	//})
+	$('ul.Accordion li').on('click', (e) => {
+		e.stopPropagation()
+		$(e.target).find(' > ul').animate({height:"toggle"}, () => {})
+	})
+
+})
+</script>
+
+</head>
+<body class="TTS">
+
+
+<ul class="Accordion">
+	<li class="Folder">Core
+		<ul class="Code Opened">
+			<li class="Class">Bounds
+				<ul class="Code Opened">
+					<li class="Class">Coordinate
+						<ul class="Code">
+							<li class="Property Object">center (Coordinate)</li>
+							<li class="Property Object">lat (Range)</li>
+							<li class="Property Object">lon (Range)</li>
+							<li class="Property Object">max (Coordinate)</li>
+							<li class="Property Object">min (Coordinate)</li>
+							<li class="Property Function">Includes</li>
+							<li class="Property Function">Position</li>
+							<li class="Property Function">ToPoint</li>
+						</ul>
+					</li>
+					<li class="Class Exapanded">Point
+						<ul class="Code">
+							<li class="Property Object">center (Point)</li>
+							<li class="Property Object">max (Point)</li>
+							<li class="Property Object">min (Point)</li>
+							<li class="Property Object">x (Range)</li>
+							<li class="Property Object">y (Range)</li>
+							<li class="Property Function">Includes</li>
+							<li class="Property Function">Position</li>
+							<li class="Property Function">ToCoordinate</li>
+						</ul>
+					</li>
+				</ul>
+			</li>	
+			<li class="Class">Coordinate
+				<ul class="Code">
+					<li class="Property Number">lon</li>
+					<li class="Property Number">lat</li>
+					<li class="Property Number">ele</li>
+					<li class="Property Number">time</li>
+					<li class="Property Function">ToPoint</li>
+				</ul>
+			</li>
+			<li class="Class Potential">Coordinates
+				<ul class="Code">
+					<li class="Property Object">...</li>
+				</ul>
+			</li>
+			<li class="Class Potential">Feature (object)(string[json|kml xml|gpx xml)
+				<ul class="Code">
+					<li class="Property Object">...</li>
+				</ul>
+			</li>
+			<li class="Class Potential">FeatureCollection
+				<ul class="Code">
+					<li class="Property String">name</li>
+					<li class="Note">Operate with folder type nestings</li>
+				</ul>
+			</li>
+			<li class="Class Potential">Geometry
+				<ul class="Code">
+					<li class="Property Object">...</li>
+				</ul>
+			</li>
+			<li class="Class">Pixel
+				<ul class="Code">
+					<li class="Property Number">x</li>
+					<li class="Property Number">y</li>
+				</ul>
+			</li>
+			<li class="Class">Point
+				<ul class="Code">
+					<li class="Property Number">x</li>
+					<li class="Property Number">y</li>
+					<li class="Property Number">z</li>
+					<li class="Property Function">ToCoordinate</li>
+				</ul>
+			</li>
+			<li class="Class Potential">Properties
+				<ul class="Code">
+					<li class="Property Object">...</li>
+				</ul>
+			</li>
+			<li class="Class">Range
+				<ul class="Code">
+					<li class="Property Number">min</li>
+					<li class="Property Number">max</li>
+					<li class="Property Number">size</li>
+					<li class="Property Function">Includes</li>
+					<li class="Property Function">Position</li>
+				</ul>
+			</li>
+			<li class="Class Potential">Tags
+				<ul class="Code">
+					<li class="Property Object">...</li>
+				</ul>
+			</li>
+			<li class="Class">Tile
+				<ul class="Code">
+					<li class="Property Object">bounds</li>
+					<li class="Property String">boundsType</li>
+					<li class="Property String">key</li>
+					<li class="Property Number">x</li>
+					<li class="Property Number">y</li>
+					<li class="Property Number">zoom</li>
+					<li class="Property Function">Includes</li>
+					<li class="Property Function">Position</li>
+					<li class="Number Static">Sizes</li>
+					<li class="Property Function Static">FromBounds</li>
+				</ul>
+			</li>	
+		</ul>
+	</li>
+	<li class="Folder">Formats
+		<ul class="Code">
+			<li class="Class">Geo
+				<ul class="Code">
+					<li class="Property Object">Coordinates
+						<ul class="code">
+							<li class="Property"></li>
+						</ul>
+					</li>
+					<li class="Property Function">ToKml</li>
+					<li class="Property Function">ToGpx</li>
+					<li class="Property Function Static">FromGpx</li>
+					<li class="Property Function Static">FromKml</li>
+				</ul>
+			</li>
+			<li class="Class">Gpx
+				<ul class="Code">
+					<li class="Property Function">ToGeo</li>
+				</ul>
+			</li>
+			<li class="Class">Kml
+				<ul class="Code">
+					<li class="Property Function">ToGeo</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="Folder">Db
+		<ul class="Folder Code">
+			<li class="Class">File
+				<ul class="Code">
+					<li class="Property String">folder</li>
+					<li class="Property String">name</li>
+					<li class="Property String">type</li>
+					<li class="Property Array">versions</li>
+					<li class="Property String">latest</li>
+					<li class="Property String">path</li>
+					<li class="Property Function">Get([version], (error, wS) => {}))</li>
+					<li class="Property Function">Put(content | rStream(error, version) => {})</li>
+					<li class="Property Function">Post(content | rStream(error, version) => {})</li>
+					<li class="Property Function">Delete(version, error =>{})</li>
+					<li class="Property Function">Head/Meta</li>
+					<li class="Property Function">Options</li>
+					<li class="Blank">&nbsp;</li>
+					<li class="Proeprty Function Static">[method](uri, options, cb)</li>
+				</ul>
+			</li>
+			<li class="Class">Folder
+				<ul class="Code">
+					<li class="Property String">path</li>
+					<li class="Property String">name</li>
+					<li class="Property Function">Namer</li>
+					<li class="Property FUnction">Fetcher</li>
+					<li class="Property Array">folders</li>
+					<li class="Property Array">files</li>
+					<li class="Property Function">Get.Folder</li>
+					<li class="Property Function">Get.File</li>
+					<li class="Property Function">Put.Folder</li>
+					<li class="Property Function">Put.File</li>
+					<li class="Property Function">Delete.Folder</li>
+					<li class="Property Function">Delete.File</li>
+					<li class="Property Function">Options</li>
+					<li class="Property Function">Head</li>
+					<li class="Blank">&nbsp;</li>
+					<li class="Proeprty Function Static">[method](uri, options, cb)</li>
+				</ul>
+			</li>
+			<li class="Property Array">methods</li>
+			<li class="Property Function">[method](uri, options, cb)</li>
+			<li class="Property Function">Handler(req, res, next)</li>
+			<li class="Property Function">Use(method, matcher, handler)</li>
+		</ul>
+	</li>
+</ul>
+
+
+<!--
+	<li class="Folder">Db
+		<ul class="Folder Code">
+			<li class="Note">Operate like express router with method/endpoint</li>
+			<li class="Note">Standard RouteHandlers based on versioning: none, simple, advanced</li>
+			<li class="Note">None: $file</li>
+			<li class="Note">Simple: $id.$version</li>
+			<li class="Note">Advanced: $id.$type(0=public/1=local).$version</li>
+			<li class="Note">Advanced: Fetcher for non-existent files</li>
+			<li class="Note">Routers: Local, Public, Fetch</li> 
+			<li class="Property String Static">methods</li>
+			<li class="Property Function">Delete</li>
+			<li class="Property Function">Get</li>
+			<li class="Property Function">Meta</li>
+			<li class="Property Function">Post</li>
+			<li class="Property Function">Put</li>
+		</ul>
+	</li>
+	<li class="Class">Handler
+		<ul class="Code">
+			<li class="Property Function">ToGeo</li>
+		</ul>
+	</li>
+	<!--
+	<li class="Folder">kml</li>
+	<li class="Folder">geo
+		<ul class="L1">
+			<li class="Folder">node
+				<ul class="L3">
+					<li class="File">$id.$version.gpx</li>
+				</ul>
+			</li>
+			<li class="Folder">relation
+				<ul>
+					<li class="File">$id.$version.gpx</li>
+				</ul>
+			</li>
+			<li class="Folder">way
+				<ul class="L3">
+					<li class="File">$id.$version.gpx</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="Folder">queries</li>
+	<li class="Folder">tiles</li>
+	<li class="File">places</li>
+</ul>
+	-->
+
+db/gpx/hikes/2012-09-02.0222.gpx
+db=gpx
+table=hikes
+file=2012-09-02.0222.gpx
+
+req {
+	path: 'path/to/something[.ext]',
+
+
+<code>
+let db = new Db('configs')
+db.Get('geo/way/187439.json', (error, contents) => {})
+db.GetSync(...)
+</code>
+
+<code>
+let routes = require('./Routes')
+function Db (configs) {
+	routes.forEach(route => {
+		this.Use(route)
+	})
+}
+</code>
+
+use('tiles/:type/:key(req, res, next)=>{
+	req.resolved = resolve(req.path)
+	next()
+})
+
+router = new Router()
+router.use((req, res, next, error)
+
+versioning: none, simple, advanced
+converting: 
+None: tiles/satellite-v9/00101100.jpg
+Simple: tiles/satellite-v9/key
+tiles/satellite-v9/key?type=local&version=xx
+
+
+Backend
+=======
+use([matcher], RouteFunction)
+$verb([matcher], RouteFunction
+matcher = 'EndPoint|Regex|fn
+
+Handler
+======
+	method/verb
+	matcher
+	fn
+
+Router
+	Fns
+
+Client Side
+db.Get('some/path[.ext]', {type: 'local|public', version:
+
+db.Get(path, options, cb)			//read
+db.Put(path, options, data, cb)		//create
+db.Delete(path, options, cb)		//delete
+db.Post(path, options, data, cb)	//append
+db.Meta(path, options, cb)			//stats
+db.Search(path, options, cb)
+
+Layer 1
+=======
+req {
+	method
+	path
+	format
+	variant
+	version
+}
+
+Layer 2
+=======
+req {
+	
+
+</code>
+
+
+</body>
+</html>

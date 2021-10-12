@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>org.tts.js.Maps DB</title>
+<link rel="stylesheet" href="../styles/jquery-ui.css">
+<link rel="stylesheet" href="../styles/bootstrap.css">
+<link rel="stylesheet" href="../styles/org.tts.css">
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/jquery-ui.js"></script>
+<script src="../scripts/bootstrap.js"></script>
+<script src="../scripts/lodash.js"></script>
+<script src="../scripts/org.tts.js.lodash.js"></script>
+<style>
+div.Accordion {
+	display:inline-block;
+	width: 30%;
+	height: 750px;
+	vertical-align: top;
+}
+div.bottom div.Accordion {
+	vertical-align: bottom;
+}
+
+li.Folder {
+	list-style-image: url(../images/folder_open_black_24dp.svg);
+}
+li.File {
+	list-style-image: url(../images/description_black_24dp.svg);
+}
+
+body > ul {
+	display: block !important;
+}
+
+ul.Accordion {
+	font-size: 1.5em;
+}
+
+li {
+	font-size: 90%;
+}
+
+ul.File {
+	font-size: 80%;
+}
+
+ul.Collapsed * {
+	display: none;
+}
+
+</style>
+<script>
+$(() => {
+	$('ul.Accordion ul').addClass('Collapsed')
+	$('ul.Accordion li').on('dblclick', (e) => {
+		e.stopPropagation()
+		$(e.target).find('ul').toggleClass('Collapsed')
+	})
+	$('ul.Accordion li').on('click', (e) => {
+		e.stopPropagation()
+		$(e.target).find(' > ul').toggleClass('Collapsed')
+	})
+
+})
+</script>
+
+</head>
+<body class="TTS">
+
+<ul class="Accordion">
+	<li class="Notes">Notes
+		<ul>
+			<li>id is file path (/path/to/file.ext)</li>
+			<li>version = </li>
+			<li>$id.$version</li>
+		</ul>
+	</li>
+	<li class="Folder">gpx
+		<ul class="L1">
+			<li class="Folder">_
+				<ul class="L3">
+					<li class="File">$original_name.gpx</li>
+				</ul>
+			</li>
+			<li class="Folder">collection
+				<ul class="L3">
+					<li class="File">$name.$version</li>
+				</ul>
+			</li>
+			<li class="Folder">hikes
+				<ul>
+					<li class="File">$date-$time</li>
+				</ul>
+			</li>
+			<li class="Folder">tracks
+				<ul class="L3">
+					<li class="File">$id.$version</li>
+				</ul>
+			</li>
+			<li class="Folder">waypoints
+				<ul class="L3">
+					<li class="File">$id.$version</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="Folder">kml</li>
+	<li class="Folder">geo
+		<ul class="L1">
+			<li class="Folder">node
+				<ul class="L3">
+					<li class="File">$id.$version</li>
+				</ul>
+			</li>
+			<li class="Folder">relation
+				<ul>
+					<li class="File">$id.$version</li>
+				</ul>
+			</li>
+			<li class="Folder">way
+				<ul class="L3">
+					<li class="File">$id.$version</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="Folder">queries</li>
+	<li class="Folder">tiles</li>
+	<li class="File">places</li>
+</ul>
+
+
+</body>
+</html>

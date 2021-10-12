@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Maps</title>
+<link rel="stylesheet" href="../styles/jquery-ui.css">
+<link rel="stylesheet" href="../styles/bootstrap.css">
+<link rel="stylesheet" href="../styles/org.tts.css">
+<link rel="stylesheet" href="../styles/org.tts.docs.css">
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/jquery-ui.js"></script>
+<script src="../scripts/bootstrap.js"></script>
+<script src="../scripts/lodash.js"></script>
+<script src="../scripts/org.tts.js.lodash.js"></script>
+<script>
+$(() => {
+	$('ul.Accordion ul').addClass('Collapsed')
+	$('ul.Accordion li').on('dblclick', (e) => {
+		e.stopPropagation()
+		$(e.target).find('ul').toggleClass('Collapsed')
+	})
+	$('ul.Accordion li').on('click', (e) => {
+		e.stopPropagation()
+		$(e.target).find(' > ul').toggleClass('Collapsed')
+	})
+
+})
+</script>
+
+</head>
+<body class="TTS">
+
+<ul class="Accordion">
+	<li class="Folder">Directory Structure
+		<ul class="">
+			<li class="Folder">config
+				<ul class="">
+					<li class="">---</li>
+				</ul>
+			</li>
+			<li class="Folder">org.tts.db.maps
+				<ul class="">
+					<li class=""></li>
+				</ul>
+			</li>
+			<li class="Folder">org.tts.js.maps
+				<ul class="">
+					<li class="Folder">_src</li>
+					<li class="Folder">_test</li>
+					<li class="Folder">_build</li>
+					<br>
+					<li class="Folder">browser</li>
+					<li class="Folder">cli</li>
+					<li class="Folder">core</li>
+					<li class="Folder">server</li>
+					<li class="File">index.js</li>
+				</ul>
+			</li>
+			<li class="Folder">org.tts.www.maps
+				<ul class="">
+					<li class="">---</li>
+				</ul>
+			</li>
+
+			<li class="">db
+				<ul class="">
+					<li class="">---</li>
+				</ul>
+			</li>
+			<li class="">www
+				<ul class="">
+					<li class="">---</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="Folder">Server Endpoints
+		<ul class="">
+			<li class="Folder">/tiles/</li>
+				<ul class="">
+					<li class="">{style}/{z}/{X}/{y}</li>
+					<li class="">{style}/{key}</li>
+					<li class="">{style}/{key}.jpg</li>
+					<li class="">{style}/{key}.json</li>
+
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Style id="Road_">
+		<LineStyle>
+			<color>bbbbffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="Road_Hike_">
+		<LineStyle>
+			<color>bbfbffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="Road_ATV_">
+		<LineStyle>
+			<color>bbdbffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="Road_Vehicle_">
+		<LineStyle>
+			<color>bbbbffff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="Road">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Road_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Road_Hike">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Road_Hike_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Road_ATV">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Road_ATV_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Road_Vehicle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Road_Vehicle_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+</Document>
+</kml>

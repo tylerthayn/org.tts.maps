@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Maps</title>
+		<script src="/scripts/org.tts.js.loader.js" data-main="Tiles" data-libs="std"></script>
+	</head>
+	<body class="TTS App Tiles">
+		<div class="card">
+			<div class="card-header"><i class="fas fa-home fa-2x"></i> &nbsp;&nbsp;&nbsp;Tiles</div>
+			<div class="card-body">
+				<div class="row">
+					<div class="col">
+						<div class="card Options">
+							<div class="card-body" style="text-align:center;">
+								<label for="TileType" class="form-label">Image Style</label>
+								<select id="TileType">
+									<option value="satellite-v9" selected>Satellite</option>
+									<option value="outdoors-v11">Outdoors</option>
+								</select>
+								<span style="width:50px;color:white;">--------------</span>
+								<label for="Zoom" class="form-label">Zoom</label>
+								<select id="Zoom" class="Zoom">
+									<option value="5">5</option>
+									<option value="6">6</option>
+									<option value="7">7</option>
+									<option value="8">8</option>
+									<option value="9">9</option>
+									<option value="10">10</option>
+									<option value="11">11</option>
+									<option value="12">12</option>
+									<option value="13" selected>13</option>
+									<option value="14">14</option>
+									<option value="15">15</option>
+									<option value="16">16</option>
+									<option value="17">17</option>
+									<option value="18">18</option>
+									<option value="19">19</option>
+									<option value="20">20</option>
+								</select>
+								<span style="width:50px;color:white;">-------</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="card">
+							<div class="card-body">
+								<h5 class="card-title">Coordinate</h5>
+								<div class="mb-3">
+									<label for="Latitude" class="form-label">Latitude</label>
+									<input type="text" id="Latitude" value="38.12130">
+								</div>
+								<div class="mb-3">
+									<label for="Longitude" class="form-label">Longitude</label>
+									<input type="text" id="Longitude" value="-110.81466">
+								</div>
+								<div class="mb-3" style="text-align: center">
+									<button type="submit" class="btn btn-primary CoordinateSubmit">Submit</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="card">
+							<div class="card-body">
+								<h5 class="card-title">QuadKey</h5>
+								<div class="mb-3" style="text-align: center">
+									<input type="text" id="QuadKey" value="0231002120310">
+								</div>
+								<div class="mb-3" style="text-align: center">
+									<button type="submit" class="btn btn-primary QuadKeySubmit">Submit</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="card">
+							<div class="card-body">
+								<h5 class="card-title">Places</h5>
+								<div class="mb-3" style="text-align: center">
+									<select class="Places" style="width: 80%">
+
+									</select>
+								</div>
+								<div class="mb-3" style="text-align: center">
+									<button type="submit" class="btn btn-primary PlacesSubmit">Submit</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+	</body>
+</html>

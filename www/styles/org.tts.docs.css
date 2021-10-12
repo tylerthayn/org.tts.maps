@@ -1,0 +1,36 @@
+div.Accordion {
+	display:inline-block;
+	width: 30%;
+	height: 750px;
+	vertical-align: top;
+}
+div.bottom div.Accordion {
+	vertical-align: bottom;
+}
+
+li.Folder {
+	list-style-image: url(../images/folder_open_black_24dp.svg);
+}
+li.File {
+	list-style-image: url(../images/description_black_24dp.svg);
+}
+
+body > ul {
+	display: block !important;
+}
+
+ul.Accordion {
+	font-size: 1.5em;
+}
+
+li {
+	font-size: 90%;
+}
+
+ul.File {
+	font-size: 80%;
+}
+
+ul.Collapsed * {
+	display: none;
+}

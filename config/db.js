@@ -1,6 +1,10 @@
-let Path = require('path')
 
 module.exports = {
 	folder: 'D:/Maps/db',
-	backup: true
+	backup: true,
+
+	resolution: {
+		coordinate: 6,
+		point: 0
+	}
 }

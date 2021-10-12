@@ -1,0 +1,22 @@
+{
+    "name": "org.tts.js.Maps",
+    "title": "Maps",
+    "version": "1.0.0",
+    "description": "Maps",
+    "author": {
+        "name": "TTS Design",
+        "email": "ttsdesign@gmail.com"
+    },
+    "deprecated": false,
+    "keywords": [
+        "Maps"
+    ],
+    "license": "MIT",
+    "main": "src/",
+    "dependencies": {
+        "lodash-tts": "^1.0.0",
+        "xml2js": "^0.4.23"
+    },
+    "bundleDependencies": false,
+    "devDependencies": {}
+}

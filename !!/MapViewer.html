@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+<style>
+	.Viewer {
+		width: 100%;
+		height: 100%;
+		border 2px solid red;
+		background: grey;
+	}
+	.Viewer div {
+		width: calc( 100% - 10px);
+		height: calc( 100% - 10px);
+		position: fixed;
+		top: 0px;
+		left: 0px;
+	}
+	.Viewer .Map {
+		z-index: 50;
+		border: 5px solid green;
+	}
+	.Viewer .View {
+		z-index: 51;
+		border: 2px solid blue;
+	}
+
+</style>
+	</head>
+	<body class="TTS App">
+
+		<div class="Viewer">
+			<div class="Map">
+				<div style="width:100%;background:purple;height:45%;">
+					<div style="width:25%;height:45%;background:brown;">&nbsp;</div>
+					<div style="width:25%;height:45%;background:red;">&nbsp;</div>
+					<div style="width:25%;height:45%;background:brown;">&nbsp;</div>
+					<div style="width:25%;height:45%;background:red;">&nbsp;</div>
+				</div>					  
+				<div style="width:80%;background:purple;height:45%;">
+					<div style="width:25%;background:red;">&nbsp;</div>
+					<div style="width:25%;background:brown;">&nbsp;</div>
+					<div style="width:25%;background:red;">&nbsp;</div>
+					<div style="width:25%;background:brown;">&nbsp;</div>
+				</div>
+			</div>
+			<div class="View"></div>
+		</div>
+	
+	</body>
+</html>
+

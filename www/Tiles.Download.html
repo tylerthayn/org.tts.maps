@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Maps</title>
+		<script src="/scripts/org.tts.js.loader.js" data-main="Tiles.Download" data-libs="std"></script>
+	</head>
+	<body class="TTS App Tiles">
+		<div class="card">
+			<div class="card-header"><i class="fas fa-home fa-2x"></i> &nbsp;&nbsp;&nbsp;Tiles Download</div>
+			<div class="card-body">
+				<label for="TileType" class="form-label">Image Style</label>
+				<select id="TileType">
+					<option value="satellite-v9" selected>Satellite</option>
+					<option value="outdoors-v11">Outdoors</option>
+				</select>
+				<br><br>
+				<label for="Width" class="form-label">Width</label>
+				<input type="text" id="Width" value="1024">
+				<span style="width:50px;color:white;">--------------</span>
+				<label for="Height" class="form-label">Height</label>
+				<input type="text" id="Height" value="1024">
+				<br><br>
+				<label for="Latitude" class="form-label">Latitude</label>
+				<input type="text" id="Latitude" value="38.12130">
+				<span style="width:50px;color:white;">--------------</span>
+				<label for="Longitude" class="form-label">Longitude</label>
+				<input type="text" id="Longitude" value="-110.81466">
+				<br><br>
+				<label for="Zoom" class="form-label">Zoom</label>
+				<select id="Zoom" class="Zoom">
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+					<option value="11">11</option>
+					<option value="12">12</option>
+					<option value="13" selected>13</option>
+					<option value="14">14</option>
+					<option value="15">15</option>
+					<option value="16">16</option>
+					<option value="17">17</option>
+					<option value="18">18</option>
+					<option value="19">19</option>
+					<option value="20">20</option>
+				</select>
+				<br><br>
+				<label for="Radius" class="form-label">Radius</label>
+				<input type="text" id="Radius" value="5" style="width:100px">
+				<span style="width:50px;color:white;">-------</span>
+				<select id="RadiusUnits">
+					<option value="tiles" selected>Tiles</option>
+					<option value="miles">Miles</option>
+				</select>
+				<br><br>
+				<button type="submit" class="btn btn-primary DownloadButton">Submit</button>
+				<button type="submit" class="btn btn-primary DetailsButton">Details</button>
+				<button type="submit" class="btn btn-primary KeysButton">Keys</button>
+			</div>
+		</div>
+
+
+	</body>
+</html>

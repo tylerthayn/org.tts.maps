@@ -1,0 +1,29 @@
+magick convert -size 1024x1024 xc:black -fill transparent -stroke "#ffffff99" -strokewidth 20 -draw "polyline 0,0 250,250 500,250" -stroke "#000000dd" -strokewidth 10 -draw "stroke-dasharray 20 10 polyline 0,0 250,250 500,250" Dashed.png
+magick convert -size 1024x1024 xc:black -fill transparent -stroke "#ffffff99" -strokewidth 20 -draw "polyline 0,0 250,250 500,250" -stroke "#000000dd" -strokewidth 10 -draw "stroke-dasharray 8 15 polyline 0,0 250,250 500,250" Dotted.png
+
+
+Style.LineString['Road.Paved'] = {line: {color: #ffffffcc, size: 30}, outline: {color: #ffffff99, size: 6}, inline: {color: #000000dd, size: 7, type: solid}}
+magick convert -size 1024x1024 xc:none -fill transparent -stroke "#ffffff99" -strokewidth 30 -draw "polyline 0,0 250,250 500,250" -stroke "#ffffffcc" -strokewidth 18 -draw "polyline 0,0 250,250 500,250" -stroke "#000000dd" -strokewidth 7 -draw "polyline 0,0 250,250 500,250" Road.Paved.png
+
+Style.LineString['Road.Dirt'] = {line: {color: #ffffffcc, size: 30}, outline: {color: #ffffff99, size: 6}, inline: {color: #885600dd, size: 7, type: solid}}
+magick convert -size 1024x1024 xc:none -fill transparent -stroke "#ffffff99" -strokewidth 30 -draw "polyline 0,0 250,250 500,250" -stroke "#ffffffcc" -strokewidth 18 -draw "polyline 0,0 250,250 500,250" -stroke "#885600dd" -strokewidth 7 -draw "polyline 0,0 250,250 500,250" Road.Dirt.png
+
+Style.LineString['Road.Atv'] = {line: {color: #ffffffcc, size: 25}, outline: {color: #ffffff99, size: 6.5}, inline: {color: #885600dd, size: 6, type: dashed}}
+magick convert -size 1024x1024 xc:none -fill transparent -stroke "#ffffff99" -strokewidth 25 -draw "polyline 0,0 250,250 500,250" -stroke "#ffffffcc" -strokewidth 12 -draw "polyline 0,0 250,250 500,250" -stroke "#885600dd" -strokewidth 6 -draw "stroke-dasharray 20 10 polyline 0,0 250,250 500,250" Road.Atv.png
+
+Style.LineString['Road.Trail'] = {line: {color: #ffffffcc, size: 20}, outline: {color: #ffffff99, size: 5}, inline: {color: #885600dd, size: 5, type: dotted}}
+magick convert -size 1024x1024 xc:none -fill transparent -stroke "#ffffff99" -strokewidth 20 -draw "polyline 0,0 250,250 500,250" -stroke "#ffffffcc" -strokewidth 10 -draw "polyline 0,0 250,250 500,250" -stroke "#885600dd" -strokewidth 5 -draw "stroke-dasharray 8 15 polyline 0,0 250,250 500,250" Road.Trail.png
+
+Style.LineString['Water.Stream'] = {background: {color: #ffffffdf}, line: {color: #41AEE4aa, size: 25}, outline: {color: #41AEE466, size: 7.5}}
+magick convert -size 1024x1024 xc:none -fill transparent -stroke "#ffffffdf" -strokewidth 25 -draw "polyline 0,0 250,250 500,250" -stroke "#41AEE466" -strokewidth 25 -draw "polyline 0,0 250,250 500,250" -stroke "#41AEE4aa" -strokewidth 10 -draw "polyline 0,0 250,250 500,250" Water.Stream.png
+
+Style.Point['Spring'] = {}
+magick convert -size 1024x1024 xc:none -fill "#ffffffdf" -stroke "#ffffffdf" -strokewidth 15 -draw "circle 100,100 85,85" -fill "#0000ffaa" -stroke "#41aee4aa" -strokewidth 15 -draw "circle 100,100 85,85" Spring.png
+
+
+// Roads Combined //
+magick convert -size 1024x1024 xc:black -page +0+0 Road.Paved.png -page +0+200 Road.Dirt.png -page +0+400 Road.Atv.png -page +0+600 Road.Trail.png -layers flatten Roads.png
+
+// Styles Combined //
+magick convert -size 1024x1024 xc:black -page +0+0 Road.Atv.png -page +0+200 Water.Stream.png -page +150+350 Spring.png -layers flatten Styles.png
+

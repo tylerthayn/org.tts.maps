@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Maps :: DB</title>
+<link rel="stylesheet" href="../styles/jquery-ui.css">
+<link rel="stylesheet" href="../styles/bootstrap.css">
+<link rel="stylesheet" href="../styles/org.tts.css">
+<script src="../scripts/jquery.js"></script>
+<script src="../scripts/jquery-ui.js"></script>
+<script src="../scripts/bootstrap.js"></script>
+<script src="../scripts/lodash.js"></script>
+<script src="../scripts/org.tts.js.lodash.js"></script>
+<style>
+div.Accordion {
+	display:inline-block;
+	width: 30%;
+	height: 750px;
+	vertical-align: top;
+}
+div.bottom div.Accordion {
+	vertical-align: bottom;
+}
+
+li.Folder {
+	list-style-image: url(../images/folder_open_black_24dp.svg);
+}
+li.File {
+	list-style-image: url(../images/description_black_24dp.svg);
+}
+
+body > ul {
+	display: block !important;
+}
+
+ul.Accordion {
+	font-size: 1.5em;
+}
+
+li {
+	font-size: 90%;
+}
+
+ul.File {
+	font-size: 80%;
+}
+
+ul.Collapsed * {
+	display: none;
+}
+
+</style>
+<script>
+$(() => {
+	$('ul.Accordion ul').addClass('Collapsed')
+	$('ul.Accordion li').on('dblclick', (e) => {
+		e.stopPropagation()
+		$(e.target).find('ul').toggleClass('Collapsed')
+	})
+	$('ul.Accordion li').on('click', (e) => {
+		e.stopPropagation()
+		$(e.target).find(' > ul').toggleClass('Collapsed')
+	})
+
+})
+</script>
+
+</head>
+<body class="TTS">
+
+<ul class="Accordion">
+	<li class="Class">File
+		<ul class="Code">
+			<li class="Property String">folder</li>
+			<li class="Property String">name</li>
+			<li class="Property String">extension</li>
+			<li class="Property Array">versions</li>
+			<li class="Property String">latest</li>
+			<li class="Property String">path</li>
+			<li class="Property Function">Save(content | rStream(error, version) => {})</li>
+			<li class="Property Function">Get([version], (error, wS) => {}))</li>
+			<li class="Property Function">Delete(version, error =>{})</li>
+		</ul>
+	</li>
+	<li class="Folder">Folder
+		<ul class="Code">
+			<li class="Property String">path</li>
+			<li class="Property String">name</li>
+			<li class="Property Function">Namer</li>
+			<li class="Property FUnction">Fetcher</li>
+			<li class="Property Array">files</li>
+			<li class="Property FUnction">Get</li>
+			<li class="Property FUnction">New</li>
+		</ul>
+	</li>
+	<li class="Folder">Db
+		<ul class="Code">
+			<li class="Property Array">folders</li>
+			<li class="Property Function">Get</li>
+			<li class="Property Function">New</li>
+		</ul>
+	</li>
+</ul>
+
+
+</body>
+</html>
