@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3304968615",
+    "properties": {
+        "type": "node",
+        "id": "3304968615",
+        "tags": {
+            "name": "Cold Spring",
+            "natural": "spring"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8017566,
+            38.1533781
+        ]
+    }
+}

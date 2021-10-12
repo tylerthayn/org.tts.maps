@@ -1,0 +1,31 @@
+{
+    "type": "Feature",
+    "id": "way/322504975",
+    "properties": {
+        "type": "way",
+        "id": 322504975,
+        "tags": {
+            "bridge": "yes",
+            "highway": "tertiary",
+            "layer": "1",
+            "name": "Burr Trail Road",
+            "ref": "CR 0598",
+            "source": "http://recorded2477roads.utah.gov/garfield/b-roads/index.html"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -111.0147922,
+                37.8536447
+            ],
+            [
+                -111.0148797,
+                37.853693
+            ]
+        ]
+    }
+}

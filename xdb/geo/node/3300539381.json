@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3300539381",
+    "properties": {
+        "type": "node",
+        "id": "3300539381",
+        "tags": {
+            "name": "Mud Spring",
+            "natural": "spring"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.9066678,
+            38.1161691
+        ]
+    }
+}

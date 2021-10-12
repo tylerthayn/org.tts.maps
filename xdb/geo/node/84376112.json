@@ -1,0 +1,20 @@
+{
+    "type": "Feature",
+    "id": "node/84376112",
+    "properties": {
+        "type": "node",
+        "id": "84376112",
+        "tags": {
+            "barrier": "cattle_grid"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7395502,
+            38.2360968
+        ]
+    }
+}

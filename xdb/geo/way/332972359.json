@@ -1,0 +1,31 @@
+{
+    "type": "Feature",
+    "id": "way/332972359",
+    "properties": {
+        "type": "way",
+        "id": 332972359,
+        "tags": {
+            "intermittent": "yes",
+            "layer": "-1",
+            "name": "Benson Creek",
+            "source": "Bing",
+            "tunnel": "culvert",
+            "waterway": "stream"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -110.6794173,
+                37.9450612
+            ],
+            [
+                -110.6792492,
+                37.9450543
+            ]
+        ]
+    }
+}

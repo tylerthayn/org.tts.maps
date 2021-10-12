@@ -1,0 +1,22 @@
+
+
+UI Endpoints
+============
+Editor
+	Feature
+	Tile
+Viewer
+	Feature
+	Tile
+
+
+Data Endpoints
+==============
+/tiles/:type/:key.jpg	[?original]	get
+/tiles/:type/:key.json			get/post
+/tiles/:type/:key/make			get
+/tiles/:type/:key	=> TileEditor
+/feature/:type/:id.json	[?original]	get/post
+/feature/:type/:id	=> FeatureEditor
+
+

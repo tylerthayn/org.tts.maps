@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3202148695",
+    "properties": {
+        "type": "node",
+        "id": "3202148695",
+        "tags": {
+            "name": "McMillan Springs Campground",
+            "operator": "BLM",
+            "tourism": "camp_site"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8481955,
+            38.0724151
+        ]
+    }
+}

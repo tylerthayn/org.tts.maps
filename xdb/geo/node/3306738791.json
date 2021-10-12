@@ -1,0 +1,20 @@
+{
+    "type": "Feature",
+    "id": "node/3306738791",
+    "properties": {
+        "type": "node",
+        "id": "3306738791",
+        "tags": {
+            "waterway": "weir"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7532939,
+            38.1998526
+        ]
+    }
+}

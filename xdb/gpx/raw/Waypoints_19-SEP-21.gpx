@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+creator="eTrex 30x" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackStatsExtension/v1 http://www8.garmin.com/xmlschemas/TrackStatsExtension.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+    <metadata>
+        <link href="http://www.garmin.com">
+        <text>Garmin International</text>
+        </link>
+        <time>2021-09-20T02:27:39Z</time>
+    </metadata>
+    <wpt lat="38.268590" lon="-110.819852">
+        <ele>1466.959106</ele>
+        <time>2021-09-20T02:27:39Z</time>
+        <name>CAMP</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="38.270994" lon="-110.858635">
+        <ele>1469.513794</ele>
+        <time>2021-09-20T04:04:20Z</time>
+        <name>MICA HILL</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="38.271059" lon="-110.858794">
+        <ele>1462.783691</ele>
+        <time>2021-09-20T04:22:30Z</time>
+        <name>028</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+</gpx>

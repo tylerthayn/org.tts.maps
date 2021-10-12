@@ -1,0 +1,25 @@
+{
+    "type": "Feature",
+    "id": "node/8303340546",
+    "properties": {
+        "type": "node",
+        "id": "8303340546",
+        "tags": {
+            "ele": "3512",
+            "fixme": "fix position, fix elevation",
+            "name": "Mount Ellen",
+            "natural": "peak",
+            "wikidata": "Q8525257",
+            "wikipedia": "en:Mount Ellen (Utah)"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.813588,
+            38.108935
+        ]
+    }
+}

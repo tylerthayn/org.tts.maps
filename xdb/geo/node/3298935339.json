@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3298935339",
+    "properties": {
+        "type": "node",
+        "id": "3298935339",
+        "tags": {
+            "name": "Dave Teeples Spring",
+            "natural": "spring"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.9090035,
+            38.0887648
+        ]
+    }
+}

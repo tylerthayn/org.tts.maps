@@ -1,0 +1,41 @@
+{
+    "type": "Feature",
+    "id": "way/10102889",
+    "properties": {
+        "type": "way",
+        "id": 10102889,
+        "tags": {
+            "access": "private",
+            "highway": "service",
+            "tiger:cfcc": "A74",
+            "tiger:county": "Garfield, UT"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -111.0611295,
+                38.1000581
+            ],
+            [
+                -111.0609837,
+                38.0999064
+            ],
+            [
+                -111.0606968,
+                38.0997596
+            ],
+            [
+                -111.0605347,
+                38.0997727
+            ],
+            [
+                -111.0602711,
+                38.1000697
+            ]
+        ]
+    }
+}

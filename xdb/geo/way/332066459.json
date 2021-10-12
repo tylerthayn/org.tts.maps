@@ -1,0 +1,28 @@
+{
+    "type": "Feature",
+    "id": "way/332066459",
+    "properties": {
+        "type": "way",
+        "id": 332066459,
+        "tags": {
+            "intermittent": "yes",
+            "source": "Bing",
+            "waterway": "stream"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -110.6459768,
+                37.8215703
+            ],
+            [
+                -110.6437024,
+                37.8207163
+            ]
+        ]
+    }
+}

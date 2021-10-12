@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "node/356672604",
+    "properties": {
+        "type": "node",
+        "id": "356672604",
+        "tags": {
+            "ele": "3182",
+            "gnis:county_id": "017",
+            "gnis:created": "12/31/1979",
+            "gnis:feature_id": "1427572",
+            "gnis:state_id": "49",
+            "name": "Dry Lakes Peak",
+            "natural": "peak"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.813401,
+            38.1381623
+        ]
+    }
+}

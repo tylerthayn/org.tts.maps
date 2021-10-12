@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3304968616",
+    "properties": {
+        "type": "node",
+        "id": "3304968616",
+        "tags": {
+            "name": "The Narrows",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.79175,
+            38.1653814
+        ]
+    }
+}

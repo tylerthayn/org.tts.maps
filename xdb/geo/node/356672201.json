@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "node/356672201",
+    "properties": {
+        "type": "node",
+        "id": "356672201",
+        "tags": {
+            "ele": "2793",
+            "gnis:county_id": "017",
+            "gnis:created": "12/31/1979",
+            "gnis:feature_id": "1426127",
+            "gnis:state_id": "49",
+            "name": "Bull Mountain",
+            "natural": "peak"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.732109,
+            38.1404534
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3400918687",
+    "properties": {
+        "type": "node",
+        "id": "3400918687",
+        "tags": {
+            "name": "North Summit Ridge",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8080697,
+            38.1005997
+        ]
+    }
+}

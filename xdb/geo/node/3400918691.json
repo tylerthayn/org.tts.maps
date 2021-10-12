@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3400918691",
+    "properties": {
+        "type": "node",
+        "id": "3400918691",
+        "tags": {
+            "name": "South Creek Ridge",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8290085,
+            38.0473864
+        ]
+    }
+}

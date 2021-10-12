@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>9-20-2021.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ranger_station">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ranger_station">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ranger_station1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="Spring_0">
+		<IconStyle>
+			<scale>0.75</scale>
+			<Icon>
+				<href>D:/Code/org.tts.js.Maps/data/images/Spring.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="Spring_hl0">
+		<IconStyle>
+			<Icon>
+				<href>D:/Code/org.tts.js.Maps/data/images/Spring.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="Spring0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Spring_0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Spring_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ranger_station">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_blu-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blu-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blu-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Spring_">
+		<IconStyle>
+			<scale>0.75</scale>
+			<Icon>
+				<href>D:/Code/org.tts.js.Maps/data/images/Spring.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="Spring">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Spring_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Spring_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_blu-blank">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ranger_station0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/ranger_station.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_blu-blank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/blu-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="Spring_hl">
+		<IconStyle>
+			<Icon>
+				<href>D:/Code/org.tts.js.Maps/data/images/Spring.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>bb00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>bb00ffff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ranger_station1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ranger_station1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ranger_station0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>9/20/21</name>
+		<open>1</open>
+		<Folder>
+			<name>Hikes</name>
+			<Placemark>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/323603598</value>
+					</Data>
+					<Data name="highway">
+						<value>path</value>
+					</Data>
+					<Data name="source">
+						<value>Bing</value>
+					</Data>
+				</ExtendedData>
+				<LineString>
+					<coordinates>
+						-110.8172042,38.17687,0 -110.8167298,38.1770103,0 -110.8163729,38.1771557,0 -110.8161531,38.1772584,0 -110.8158963,38.1774209,0 -110.815744,38.1775081,0 -110.8155546,38.1775287,0 -110.8154023,38.1775167,0 -110.8152652,38.1774637,0 -110.8151825,38.1774859,0 -110.8151324,38.1774722,0 -110.814991,38.1775099,0 -110.814843,38.1775081,0 -110.8147407,38.1775218,0 -110.8144926,38.1776125,0 -110.8142859,38.1777066,0 -110.8141771,38.1777357,0 -110.8140617,38.1778195,0 -110.8138071,38.1778879,0 -110.8136417,38.1778777,0 -110.8135242,38.1778828,0 -110.813411,38.177787,0 -110.8133262,38.1776553,0 -110.8133066,38.1775595,0 -110.8132154,38.1774459,0 -110.8131262,38.1773757,0 -110.8128323,38.1772209,0 -110.8127014,38.1771991,0 -110.8124737,38.1771157,0 -110.8122059,38.1771145,0 -110.8119628,38.1769947,0 -110.8118151,38.176829,0 -110.8117489,38.1768181,0 -110.8116427,38.1767576,0 -110.8115983,38.1767352,0 -110.8114458,38.1766584,0 -110.8113057,38.1766644,0 -110.8112242,38.1766511,0 -110.8111934,38.176558,0 -110.8112226,38.1764431,0 -110.8111841,38.1763753,0 -110.8110564,38.1763269,0 -110.8109256,38.1763136,0 -110.8107948,38.1762435,0 -110.8107579,38.1761915,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>way/323603597</value>
+					</Data>
+					<Data name="highway">
+						<value>path</value>
+					</Data>
+					<Data name="source">
+						<value>Bing</value>
+					</Data>
+				</ExtendedData>
+				<LineString>
+					<coordinates>
+						-110.8014418,38.1855243,0 -110.8015482,38.1855418,0 -110.8018006,38.1855128,0 -110.8019222,38.1854656,0 -110.8020053,38.1853096,0 -110.8021422,38.1851813,0 -110.8022915,38.1850797,0 -110.8024131,38.1850604,0 -110.8026377,38.1850507,0 -110.8027362,38.1850749,0 -110.8027738,38.185109,0 -110.8027861,38.1851695,0 -110.8027369,38.1852312,0 -110.8026492,38.185351,0 -110.8025799,38.1854465,0 -110.8025892,38.1855348,0 -110.802643,38.1855989,0 -110.8027215,38.1856195,0 -110.8028031,38.185582,0 -110.802837,38.1855515,0 -110.8028662,38.1855251,0 -110.8029369,38.1855227,0 -110.8030908,38.1855711,0 -110.8032883,38.1856604,0 -110.8034791,38.18575,0 -110.803593,38.1858177,0 -110.8036992,38.1859338,0 -110.8037531,38.1862011,0 -110.8038054,38.1863535,0 -110.8039962,38.1865906,0 -110.8041932,38.1868398,0 -110.8042686,38.1869704,0 -110.8043609,38.1871058,0 -110.8044409,38.1871893,0 -110.8045332,38.1871772,0 -110.8046194,38.1871179,0 -110.8046979,38.1870575,0 -110.8047395,38.1869897,0 -110.8047949,38.1869401,0 -110.8048949,38.1868918,0 -110.8049857,38.1868579,0 -110.8051565,38.1869014,0 -110.8053658,38.1869293,0 -110.8054458,38.1869208,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Cold Spring</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-110.809895803231,38.15367905375215,0 -110.8081829391787,38.15318259913634,0 -110.8068400665857,38.15254369070764,0 -110.8062106794275,38.15260318093677,0 -110.8051576229606,38.15202177318293,0 -110.8046312290691,38.15135783741581,0 -110.8025938230579,38.15013184380361,0 -110.8015053337111,38.14987927280949,0 -110.800722119188,38.14941394663258,0 -110.7995598253969,38.14849104398015,0 -110.7993063684151,38.14911276158089,0 -110.7999065214875,38.15085780355881,0 -110.7999788417583,38.15167956617702,0 -110.800784940865,38.15270032872871,0 -110.8013113850145,38.15331455961032,0 -110.8017246667743,38.15335916079976,0 -110.8031158022941,38.1540620058577,0 -110.8043379678214,38.15414061235428,0 -110.8053481913269,38.15415188458568,0 -110.8062489918003,38.15411007558313,0 -110.8069537110801,38.15410099500181,0 -110.8077036878656,38.15393930485219,0 -110.8079121828552,38.15306370832709,0 -110.8091021554301,38.15342901903734,0 -110.8100294676913,38.15361838046379,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Dry Lake</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-110.8100509420869,38.15367892222686,0 -110.8101094711585,38.15364454556958,0 -110.8115837663303,38.15354154718874,0 -110.8132574683372,38.15362010823026,0 -110.8145139250028,38.15322671481131,0 -110.8148358086989,38.15332381939633,0 -110.8151659429938,38.1531236487271,0 -110.8160437276291,38.15393500900937,0 -110.81709955232,38.15390089261973,0 -110.8184892935308,38.15332660704331,0 -110.8191399724496,38.15287790359682,0 -110.8208085112646,38.15386872745169,0 -110.8220564389559,38.1539136227456,0 -110.8203657907445,38.15304621375057,0 -110.8177601723997,38.15188256169836,0 -110.8166212734445,38.15126104590388,0 -110.8161018140403,38.15216395064861,0 -110.8158554709245,38.15280465876495,0 -110.8156346091181,38.15313399624603,0 -110.815173948977,38.1530217834158,0 -110.8147205674477,38.15278527108109,0 -110.8143366674202,38.15278426047682,0 -110.8139481483642,38.15302660396424,0 -110.8136707507523,38.15337530639236,0 -110.8128823957438,38.15364640704136,0 -110.8119152620709,38.15357768984435,0 -110.8108803269904,38.15360545711907,0 -110.8100036512138,38.15359549118789,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Birch Fork</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-110.8118024360494,38.1749800622846,0 -110.8126720065019,38.1745322743298,0 -110.8130314296722,38.17415017533428,0 -110.813486036568,38.17409260641126,0 -110.813544728188,38.17413727803424,0 -110.8134368235246,38.17263609533631,0 -110.8139039459106,38.1717029120304,0 -110.8135092699632,38.17105218973862,0 -110.8132698682628,38.16868065821728,0 -110.8122888955922,38.1668683765621,0 -110.8113437328144,38.16628681673314,0 -110.8110175304873,38.16484650418077,0 -110.812555715146,38.16212450494326,0 -110.8135514232628,38.16132611097284,0 -110.8137151245459,38.16057531364389,0 -110.8126799576112,38.15904126629214,0 -110.81157324155,38.15903903998104,0 -110.8114681466833,38.15615933363474,0 -110.8109117147308,38.1556858746871,0 -110.8100176943007,38.15434165934607,0 -110.8100869244248,38.15352053830345,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Oak Springs Loop</name>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-110.8532881190283,38.16290088847006,0 -110.8531555533154,38.16293525840383,0 -110.8520814303646,38.16106998991506,0 -110.8503912038158,38.15811898298221,0 -110.8498761142361,38.15658631342548,0 -110.8490775130419,38.15558940569456,0 -110.8469691210232,38.15232686060595,0 -110.8446119341509,38.14979804991157,0 -110.8443060635729,38.14978294821533,0 -110.8440968388341,38.15100158109652,0 -110.8431905918323,38.15157861604956,0 -110.8432239935403,38.15257129047626,0 -110.8427241090573,38.15385462931377,0 -110.8423110268796,38.15423991931076,0 -110.8413334502593,38.15484029829359,0 -110.8400091532652,38.1548312660401,0 -110.8389354909714,38.1551608717232,0 -110.8403903293827,38.15552315726489,0 -110.8416967870494,38.15584016021938,0 -110.8428685646676,38.15586347745547,0 -110.8429373516819,38.15585855400284,0 -110.8428487140641,38.15589128580776,0 -110.8447788051739,38.15664987175815,0 -110.8460918823571,38.15751736742267,0 -110.8476241927491,38.15855207148905,0 -110.8486262654392,38.16005573579898,0 -110.850225491599,38.16201528751909,0 -110.8514361234842,38.16286794856046,0 -110.852190994724,38.16314311091439,0 -110.8528159809001,38.1631798499847,0 -110.8530903197794,38.16307264149015,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Birch Bottom Vue 1</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-110.8117941621812,38.17500306648346,0 -110.811148111028,38.17522176094236,0 -110.809901183709,38.17523534536855,0 -110.8085312087797,38.17477901599192,0 -110.8074321314033,38.1741445443614,0 -110.8078909496697,38.17371320261041,0 -110.8075488023531,38.17306766765274,0 -110.8082456729416,38.17267876712115,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Birch Bottom Vue 2</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-110.8118182529117,38.17497274584819,0 -110.8123249186756,38.17474174947788,0 -110.8127445424549,38.17449893016364,0 -110.8129661205183,38.17418205875631,0 -110.8130662173802,38.17360851026632,0 -110.8127613191164,38.17363790946732,0 -110.8125304534276,38.1736190490739,0 -110.8122800046095,38.17333627811465,0 -110.8121022946359,38.17314375409419,0 -110.8117595203788,38.17308075763413,0 -110.8110176913459,38.1730459196021,0 -110.8105609564242,38.17271792179576,0 -110.8100614722583,38.17159158971906,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Cotton Wood</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-110.8389711198489,38.15516169051486,0 -110.8377908027083,38.15526684715077,0 -110.8371573353997,38.15500362107253,0 -110.83623124459,38.15496657167114,0 -110.8349960407746,38.15509516917036,0 -110.8346636080965,38.15469741721526,0 -110.834646470672,38.1542100799937,0 -110.8340536967511,38.15342519266934,0 -110.8327929706044,38.15239095134149,0 -110.8322717858977,38.15201473984308,0 -110.8310888696306,38.15210233736808,0 -110.8301352497793,38.15192515351006,0 -110.8305139433887,38.15246639992622,0 -110.8314426929637,38.15271746715404,0 -110.8320975340878,38.15291696763038,0 -110.8328417563689,38.15313941857092,0 -110.8340786598781,38.15338973036874,0 -110.8357056696128,38.15365421445674,0 -110.8369861925914,38.15385034344686,0 -110.8381097248059,38.15391398970497,0 -110.8408357973626,38.15421493887939,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Springs</name>
+			<Placemark>
+				<styleUrl>#Spring0</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>node/3304969373</value>
+					</Data>
+					<Data name="natural">
+						<value>spring</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-110.8058618,38.1868764,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cold Spring</name>
+				<styleUrl>#Spring</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>node/3304968615</value>
+					</Data>
+					<Data name="name">
+						<value>Cold Spring</value>
+					</Data>
+					<Data name="natural">
+						<value>spring</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-110.8017566,38.1533781,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lost Spring</name>
+				<styleUrl>#Spring</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>node/3229765488</value>
+					</Data>
+					<Data name="name">
+						<value>Lost Spring</value>
+					</Data>
+					<Data name="natural">
+						<value>spring</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-110.8475781,38.1845949,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#Spring</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>node/3303852539</value>
+					</Data>
+					<Data name="natural">
+						<value>spring</value>
+					</Data>
+					<Data name="source">
+						<value>USGS Topo map</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-110.8491119,38.1830962,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oak Spring</name>
+				<styleUrl>#Spring</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>node/3303393839</value>
+					</Data>
+					<Data name="name">
+						<value>Oak Spring</value>
+					</Data>
+					<Data name="natural">
+						<value>spring</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-110.8390433,38.155271,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#Spring</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>node/3303394219</value>
+					</Data>
+					<Data name="natural">
+						<value>spring</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-110.8500203,38.1685754,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#Spring</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>node/3303394097</value>
+					</Data>
+					<Data name="natural">
+						<value>spring</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-110.855546,38.1612804,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cottonwood Spring</name>
+				<styleUrl>#Spring</styleUrl>
+				<ExtendedData>
+					<Data name="@id">
+						<value>node/3303393836</value>
+					</Data>
+					<Data name="name">
+						<value>Cottonwood Spring</value>
+					</Data>
+					<Data name="natural">
+						<value>spring</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-110.8264394,38.1461167,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Blinds</name>
+			<open>1</open>
+			<Placemark>
+				<name>Dry Lake Blind</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>-110.8133280588572</longitude>
+					<latitude>38.15328294590137</latitude>
+					<altitude>0</altitude>
+					<heading>-176.5453973150829</heading>
+					<tilt>57.4359883421235</tilt>
+					<range>182.5610094751206</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ranger_station</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8139233657221,38.15314655483348,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oak-1 Blind</name>
+				<LookAt>
+					<gx:TimeStamp><when>2021-07-04T00:20:27Z</when>
+</gx:TimeStamp>
+					<longitude>-110.8441613417004</longitude>
+					<latitude>38.14993912124075</latitude>
+					<altitude>0</altitude>
+					<heading>151.5977637121244</heading>
+					<tilt>60.00194442696005</tilt>
+					<range>250.0266183981216</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ranger_station1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8445723715136,38.1499303237832,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oak-2 Blind</name>
+				<LookAt>
+					<gx:TimeStamp><when>2021-07-04T00:20:27Z</when>
+</gx:TimeStamp>
+					<longitude>-110.8484433736895</longitude>
+					<latitude>38.15579048511511</latitude>
+					<altitude>0</altitude>
+					<heading>151.6116012359907</heading>
+					<tilt>49.64971496588171</tilt>
+					<range>205.4108706419848</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ranger_station1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8491372116994,38.15572770187079,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Oak Blind</name>
+				<LookAt>
+					<longitude>-110.8538469021068</longitude>
+					<latitude>38.16224519031815</latitude>
+					<altitude>0</altitude>
+					<heading>-176.5685508740393</heading>
+					<tilt>46.42542349602175</tilt>
+					<range>191.1249439440437</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ranger_station</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8538171905985,38.16266146117169,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Birch Creek Blind</name>
+				<LookAt>
+					<longitude>-110.8041691258446</longitude>
+					<latitude>38.14632671996142</latitude>
+					<altitude>0</altitude>
+					<heading>-176.5401127340976</heading>
+					<tilt>66.51620261335005</tilt>
+					<range>2331.610057331794</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ranger_station1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8003443896128,38.14851838425155,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>Bacon Side</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2021-09-03T20:30:50Z</begin>
+					<end>2021-09-04T23:53:58Z</end>
+				</gx:TimeSpan>
+				<longitude>-110.7985158801788</longitude>
+				<latitude>38.14338478804956</latitude>
+				<altitude>0</altitude>
+				<heading>0.1465913179494435</heading>
+				<tilt>50.62239618846572</tilt>
+				<range>2253.419749484485</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.7986443,38.156855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dry Lakes Area</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2021-09-03T20:30:50Z</begin>
+					<end>2021-09-04T23:53:58Z</end>
+				</gx:TimeSpan>
+				<longitude>-110.7985199320395</longitude>
+				<latitude>38.14325181845592</latitude>
+				<altitude>0</altitude>
+				<heading>0.1465888092049642</heading>
+				<tilt>50.62237179066046</tilt>
+				<range>2249.904563597789</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.8070982,38.158411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blue Valley Road</name>
+			<ExtendedData>
+				<Data name="@id">
+					<value>way/315061562</value>
+				</Data>
+				<Data name="highway">
+					<value>track</value>
+				</Data>
+				<Data name="name">
+					<value>Blue Valley Road</value>
+				</Data>
+				<Data name="ref">
+					<value>CR 92</value>
+				</Data>
+				<Data name="source">
+					<value>http://recorded2477roads.utah.gov/wayne/b-roads/index.html</value>
+				</Data>
+				<Data name="surface">
+					<value>dirt</value>
+				</Data>
+				<Data name="tracktype">
+					<value>grade3</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-110.8541256,38.3544385,0 -110.8540539,38.3542406,0 -110.8540291,38.3540563,0 -110.8541523,38.3531615,0 -110.8543759,38.3521072,0 -110.8549282,38.3499735,0 -110.855794,38.3478115,0 -110.8567144,38.3456991,0 -110.8572222,38.3446609,0 -110.8577726,38.3436222,0 -110.8584778,38.3426014,0 -110.8590902,38.3415747,0 -110.8592863,38.341023,0 -110.8594296,38.3388734,0 -110.8597048,38.3384191,0 -110.8596933,38.3381763,0 -110.8598036,38.3380898,0 -110.8598367,38.3380639,0 -110.8605304,38.3379919,0 -110.8607024,38.337812,0 -110.8606596,38.3374578,0 -110.8607082,38.3371239,0 -110.8608119,38.3367839,0 -110.8609406,38.3366832,0 -110.8613503,38.3363819,0 -110.8616537,38.3360656,0 -110.8617345,38.3358332,0 -110.8617402,38.3356039,0 -110.8618077,38.3350168,0 -110.861823,38.3347932,0 -110.8618262,38.3346639,0 -110.8620064,38.334552,0 -110.8627091,38.3340983,0 -110.862784,38.334011,0 -110.8630001,38.3337593,0 -110.863384,38.3334867,0 -110.8635291,38.3333012,0 -110.8637298,38.3327165,0 -110.8638502,38.3324332,0 -110.8641574,38.3320272,0 -110.8651456,38.3305563,0 -110.8656104,38.3297931,0 -110.866113,38.3290083,0 -110.8665277,38.3283898,0 -110.8667284,38.327985,0 -110.8668308,38.3275539,0 -110.8670781,38.3273283,0 -110.8672335,38.3271034,0 -110.8675428,38.3265964,0 -110.8677662,38.3258125,0 -110.8678137,38.3254756,0 -110.8677959,38.325065,0 -110.8678494,38.3249374,0 -110.8682181,38.3241873,0 -110.8683187,38.3241543,0 -110.8684427,38.3241437,0 -110.8687345,38.3241409,0 -110.869112,38.3240826,0 -110.8695355,38.3239991,0 -110.8696455,38.3239045,0 -110.8696474,38.3238077,0 -110.8694393,38.3233776,0 -110.869263,38.3231194,0 -110.8691824,38.3230012,0 -110.8691657,38.3229025,0 -110.8691605,38.3228717,0 -110.8694055,38.3224582,0 -110.8696691,38.3221273,0 -110.8698757,38.3219589,0 -110.8701182,38.3218233,0 -110.8701652,38.3217317,0 -110.8701595,38.3216575,0 -110.8701584,38.3210476,0 -110.8701346,38.3204463,0 -110.8701181,38.3203207,0 -110.8701099,38.3202578,0 -110.8699638,38.3194723,0 -110.8699638,38.3189864,0 -110.8700125,38.3187574,0 -110.8700997,38.3185743,0 -110.8702793,38.3183413,0 -110.8705497,38.3180133,0 -110.8706084,38.3178349,0 -110.8705506,38.3176748,0 -110.8705354,38.3174787,0 -110.8705982,38.3173511,0 -110.8707057,38.3173037,0 -110.8708343,38.3172864,0 -110.8710828,38.3173642,0 -110.8713273,38.3173985,0 -110.8716058,38.317396,0 -110.8718584,38.3173544,0 -110.8720436,38.3172974,0 -110.8722342,38.3173769,0 -110.8722943,38.3175737,0 -110.8722787,38.317727,0 -110.8722308,38.317963,0 -110.8722342,38.3180449,0 -110.8723193,38.3181435,0 -110.8724594,38.3181692,0 -110.8729564,38.317949,0 -110.873079,38.3178624,0 -110.8731423,38.3177904,0 -110.8731359,38.3176478,0 -110.8731058,38.3175423,0 -110.873118,38.317361,0 -110.8732356,38.3172242,0 -110.8733533,38.317141,0 -110.8734829,38.3170715,0 -110.873722,38.3171457,0 -110.8739045,38.3171288,0 -110.8740834,38.3170658,0 -110.8742491,38.3169888,0 -110.8744275,38.316957,0 -110.8749164,38.3169579,0 -110.8751492,38.3168743,0 -110.8756877,38.3163736,0 -110.8761875,38.3157337,0 -110.8764009,38.3154274,0 -110.8769857,38.3145935,0 -110.8772736,38.3140496,0 -110.8774818,38.3134952,0 -110.8775493,38.3132034,0 -110.8778074,38.3128955,0 -110.8786708,38.3120022,0 -110.878875,38.3117656,0 -110.8788912,38.3114156,0 -110.8788978,38.3111693,0 -110.8790675,38.3101484,0 -110.8797541,38.3087232,0 -110.8801196,38.3078845,0 -110.8804538,38.3069711,0 -110.8805129,38.3067837,0 -110.8805226,38.3065619,0 -110.8803467,38.3057116,0 -110.880213,38.3048709,0 -110.8802656,38.3036564,0 -110.8801399,38.3030932,0 -110.8799887,38.3025666,0 -110.8793029,38.3005638,0 -110.878961,38.2989547,0 -110.878314,38.2973071,0 -110.877709,38.2961676,0 -110.8775688,38.2958672,0 -110.8771713,38.2950149,0 -110.8768088,38.2946332,0 -110.8766138,38.2944172,0 -110.876552,38.2942135,0 -110.8765373,38.2939198,0 -110.8765925,38.2935978,0 -110.8765421,38.2934136,0 -110.8763184,38.2928079,0 -110.8761186,38.2924679,0 -110.8758742,38.2919152,0 -110.8757581,38.2913469,0 -110.8756735,38.2902592,0 -110.8754843,38.2892376,0 -110.8752762,38.2884184,0 -110.8746665,38.2866892,0 -110.8741834,38.2852923,0 -110.8741156,38.2851431,0 -110.8736113,38.2844481,0 -110.87353,38.2842689,0 -110.8734354,38.2838537,0 -110.8734347,38.2836722,0 -110.8734741,38.2835344,0 -110.8735794,38.2834138,0 -110.8736489,38.2833341,0 -110.8737308,38.2832327,0 -110.8737143,38.2831289,0 -110.8736332,38.2830337,0 -110.8730992,38.2825725,0 -110.8725939,38.2821077,0 -110.8723151,38.2818864,0 -110.8719434,38.2815699,0 -110.871493,38.2812794,0 -110.8710646,38.2811211,0 -110.8699171,38.2806957,0 -110.8686083,38.280307,0 -110.8682249,38.2802842,0 -110.8670306,38.2802327,0 -110.8661161,38.2800719,0 -110.8655825,38.2799036,0 -110.8650206,38.279593,0 -110.8640208,38.2789985,0 -110.8635528,38.2786568,0 -110.8632433,38.2782573,0 -110.8631368,38.2778697,0 -110.8629836,38.2774513,0 -110.8627567,38.2769166,0 -110.8627538,38.2766309,0 -110.8628304,38.2758167,0 -110.8628237,38.2750102,0 -110.8628107,38.2743131,0 -110.8631815,38.2732453,0 -110.8632086,38.2730667,0 -110.8631641,38.2727668,0 -110.8631056,38.2725804,0 -110.8630149,38.2723835,0 -110.862877,38.2722243,0 -110.8626774,38.2720537,0 -110.8623779,38.2719219,0 -110.8622642,38.2718901,0 -110.8619698,38.2718079,0 -110.8616836,38.2717007,0 -110.8612752,38.2715701,0 -110.8602732,38.2711535,0 -110.8590864,38.2708429,0 -110.8587029,38.270759,0 -110.8582568,38.270714,0 -110.8579963,38.2706294,0 -110.8577466,38.2704719,0 -110.8575624,38.2702299,0 -110.8574574,38.2699439,0 -110.8565433,38.2667867,0 -110.8557733,38.2634166,0 -110.8551258,38.2593544,0 -110.8550219,38.2584318,0 -110.8550502,38.2581152,0 -110.8551303,38.2578868,0 -110.8553424,38.2573511,0 -110.8557511,38.2562789,0 -110.855964,38.2550226,0 -110.8561399,38.2539959,0 -110.8561444,38.2536566,0 -110.8560352,38.253389,0 -110.8558325,38.2530706,0 -110.8555898,38.2525826,0 -110.8554316,38.2521471,0 -110.8553535,38.2519881,0 -110.8552646,38.2519092,0 -110.8549137,38.2516162,0 -110.8548341,38.2515712,0 -110.8547528,38.2515611,0 -110.8546562,38.2515802,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Giles Road</name>
+			<ExtendedData>
+				<Data name="@id">
+					<value>way/313944868</value>
+				</Data>
+				<Data name="highway">
+					<value>track</value>
+				</Data>
+				<Data name="name">
+					<value>Giles Road</value>
+				</Data>
+				<Data name="ref">
+					<value>CR 92B</value>
+				</Data>
+				<Data name="source">
+					<value>http://recorded2477roads.utah.gov/wayne/b-roads/index.html</value>
+				</Data>
+				<Data name="surface">
+					<value>dirt</value>
+				</Data>
+				<Data name="tracktype">
+					<value>grade3</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-110.8744279,38.3579109,0 -110.8746232,38.3577726,0 -110.8747099,38.3576639,0 -110.8748469,38.3573996,0 -110.8749382,38.3570785,0 -110.8749965,38.3569525,0 -110.8751745,38.3568216,0 -110.8755005,38.3565882,0 -110.8756864,38.3564103,0 -110.8757982,38.3563226,0 -110.8760378,38.356272,0 -110.8762082,38.3562109,0 -110.8763057,38.3561136,0 -110.8763051,38.3559454,0 -110.876236,38.3557297,0 -110.8761895,38.3556179,0 -110.8760414,38.3554485,0 -110.8758014,38.3552359,0 -110.8753108,38.3548948,0 -110.8744689,38.3544075,0 -110.8740167,38.3542188,0 -110.8727137,38.3537577,0 -110.8723484,38.3536931,0 -110.8716156,38.3536477,0 -110.8700208,38.3536948,0 -110.8686777,38.3536931,0 -110.8649874,38.3538509,0 -110.8632194,38.3540924,0 -110.8617664,38.3542912,0 -110.8610222,38.3543477,0 -110.8604508,38.3545434,0 -110.8566866,38.3553228,0 -110.8559136,38.3554132,0 -110.8554431,38.3552814,0 -110.8551454,38.3550066,0 -110.8549486,38.3549162,0 -110.8546029,38.3549388,0 -110.8543724,38.3548936,0 -110.8541256,38.3544385,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder>
+			<name>?Water?</name>
+			<Placemark>
+				<LookAt>
+					<gx:TimeStamp><when>2021-07-04T00:20:27Z</when>
+</gx:TimeStamp>
+					<longitude>-110.8018607910752</longitude>
+					<latitude>38.14692164789201</latitude>
+					<altitude>0</altitude>
+					<heading>-170.9440320521861</heading>
+					<tilt>50.87570893631732</tilt>
+					<range>1144.659531588929</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8008071008959,38.14991959979137,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<LookAt>
+					<gx:TimeStamp><when>2021-07-04T00:20:27Z</when>
+</gx:TimeStamp>
+					<longitude>-110.8026789525096</longitude>
+					<latitude>38.1475929926743</latitude>
+					<altitude>0</altitude>
+					<heading>-170.9445374404149</heading>
+					<tilt>50.87592182131819</tilt>
+					<range>1175.219274012724</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.7995883583538,38.14679540923647,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<LookAt>
+					<longitude>-110.8160789460381</longitude>
+					<latitude>38.14979916312561</latitude>
+					<altitude>0</altitude>
+					<heading>3.524529676176608</heading>
+					<tilt>36.30564109726873</tilt>
+					<range>1486.176940294091</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8159281687218,38.15242491203929,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<LookAt>
+					<longitude>-110.81604214923</longitude>
+					<latitude>38.15430599673245</latitude>
+					<altitude>0</altitude>
+					<heading>-6.883949451473035</heading>
+					<tilt>33.41945948316803</tilt>
+					<range>273.3055646651977</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8158954708237,38.1541703499672,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<LookAt>
+					<gx:TimeStamp><when>2021-07-04T00:20:27Z</when>
+</gx:TimeStamp>
+					<longitude>-110.8049076513704</longitude>
+					<latitude>38.15350777520875</latitude>
+					<altitude>0</altitude>
+					<heading>-170.944718437019</heading>
+					<tilt>51.93856151114709</tilt>
+					<range>813.1656513850946</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8061729182971,38.15431555969425,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<LookAt>
+					<gx:TimeStamp><when>2021-07-04T00:20:27Z</when>
+</gx:TimeStamp>
+					<longitude>-110.8049076513704</longitude>
+					<latitude>38.15350777520875</latitude>
+					<altitude>0</altitude>
+					<heading>-170.944718437019</heading>
+					<tilt>51.93856151114709</tilt>
+					<range>813.1656513850946</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.804374669587,38.1543680481018,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<Camera>
+					<longitude>-110.8155298456179</longitude>
+					<latitude>38.15710460163692</latitude>
+					<altitude>61.58968441053403</altitude>
+					<heading>-90.61715856279544</heading>
+					<tilt>6.907091523084832</tilt>
+					<roll>84.31901966786816</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8155902592226,38.15721794650607,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<Camera>
+					<longitude>-110.7951192409533</longitude>
+					<latitude>38.1536265633875</latitude>
+					<altitude>868.9910868745847</altitude>
+					<heading>2.743423166788178</heading>
+					<tilt>29.99205396356229</tilt>
+					<roll>13.82314566633056</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.7957556153515,38.15754861896379,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<LookAt>
+					<longitude>-110.8212274333836</longitude>
+					<latitude>38.15377231228589</latitude>
+					<altitude>0</altitude>
+					<heading>169.9227674459871</heading>
+					<tilt>55.88427896125111</tilt>
+					<range>307.8170605502386</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8220528268148,38.15394902776382,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<LookAt>
+					<longitude>-110.8189315197992</longitude>
+					<latitude>38.15359611990984</latitude>
+					<altitude>0</altitude>
+					<heading>-54.5078507134022</heading>
+					<tilt>46.93922829032825</tilt>
+					<range>297.7074865523281</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8189116935042,38.15324391406483,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<LookAt>
+					<longitude>-110.8286835816561</longitude>
+					<latitude>38.15148495661337</latitude>
+					<altitude>0</altitude>
+					<heading>159.1723801597422</heading>
+					<tilt>26.08262237460462</tilt>
+					<range>1000.034905171799</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8304198989157,38.15199644038541,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<Camera>
+					<longitude>-110.8178547122103</longitude>
+					<latitude>38.15541393915117</latitude>
+					<altitude>684.9649769196628</altitude>
+					<heading>82.28114552060595</heading>
+					<tilt>6.92255755671642</tilt>
+					<roll>97.72563430507857</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8177011488466,38.15458546396905,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<LookAt>
+					<longitude>-110.8322628323783</longitude>
+					<latitude>38.15136432204891</latitude>
+					<altitude>0</altitude>
+					<heading>136.3967919561967</heading>
+					<tilt>30.55832488825691</tilt>
+					<range>946.9716151391391</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8316807168926,38.15276131358401,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<Camera>
+					<longitude>-110.809644198741</longitude>
+					<latitude>38.15391251198257</latitude>
+					<altitude>1009.540192140152</altitude>
+					<heading>28.10773609457383</heading>
+					<tilt>11.23284731705419</tilt>
+					<roll>37.8154069503944</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8074270037783,38.1532312607138,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<Camera>
+					<longitude>-110.809644198741</longitude>
+					<latitude>38.15391251198257</latitude>
+					<altitude>1009.540192140152</altitude>
+					<heading>28.10773609457383</heading>
+					<tilt>11.23284731705419</tilt>
+					<roll>37.8154069503944</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8058818109199,38.15433756702642,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<Camera>
+					<longitude>-110.816523769445</longitude>
+					<latitude>38.15367285093338</latitude>
+					<altitude>692.0053495689151</altitude>
+					<heading>28.10348576550701</heading>
+					<tilt>11.23284732518747</tilt>
+					<roll>37.81536428840412</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8136939108082,38.15462028961888,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<Camera>
+					<longitude>-110.8012292778427</longitude>
+					<latitude>38.14920495618149</latitude>
+					<altitude>1009.540192138736</altitude>
+					<heading>28.11293468228656</heading>
+					<tilt>11.23284731705419</tilt>
+					<roll>37.81540695039441</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8009973674812,38.15040649233512,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<Camera>
+					<longitude>-110.8160368942241</longitude>
+					<latitude>38.15537281435269</latitude>
+					<altitude>686.7277603103973</altitude>
+					<heading>-152.5338857340119</heading>
+					<tilt>29.56042047194117</tilt>
+					<roll>14.01018216168501</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8164670262573,38.15139598975802,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<Camera>
+					<longitude>-110.7985992358465</longitude>
+					<latitude>38.14762170644662</latitude>
+					<altitude>464.9133089338936</altitude>
+					<heading>-165.6472002285961</heading>
+					<tilt>59.9999995906626</tilt>
+					<roll>7.948739255731351</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8002324099147,38.14366087330129,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<Camera>
+					<longitude>-110.8083617244013</longitude>
+					<latitude>38.15701967822957</latitude>
+					<altitude>854.422415649146</altitude>
+					<heading>-6.840066253246754</heading>
+					<tilt>30.71129399702447</tilt>
+					<roll>13.55773143709072</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.8099208507288,38.15942636874514,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<Camera>
+					<longitude>-110.8083617244013</longitude>
+					<latitude>38.15701967822957</latitude>
+					<altitude>854.422415649146</altitude>
+					<heading>-6.840066253246754</heading>
+					<tilt>30.71129399702447</tilt>
+					<roll>13.55773143709072</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_blu-blank</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-110.808383267166,38.16149640308166,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

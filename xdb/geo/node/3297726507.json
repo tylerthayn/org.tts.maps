@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3297726507",
+    "properties": {
+        "type": "node",
+        "id": "3297726507",
+        "tags": {
+            "name": "Pearl Flat",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7871141,
+            38.0910892
+        ]
+    }
+}

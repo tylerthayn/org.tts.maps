@@ -1,0 +1,27 @@
+{
+    "type": "Feature",
+    "id": "node/356673914",
+    "properties": {
+        "type": "node",
+        "id": "356673914",
+        "tags": {
+            "ele": "2742",
+            "gnis:county_id": "017",
+            "gnis:created": "12/31/1979",
+            "gnis:feature_id": "1431544",
+            "gnis:state_id": "49",
+            "name": "Ragged Mountain",
+            "natural": "peak",
+            "wikidata": "Q22073355"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7598715,
+            38.0205942
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "Feature",
+    "id": "node/83109639",
+    "properties": {
+        "type": "node",
+        "id": "83109639",
+        "tags": {},
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8328152,
+            38.0633436
+        ]
+    }
+}

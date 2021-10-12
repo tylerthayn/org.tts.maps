@@ -1,0 +1,38 @@
+{
+    "type": "Feature",
+    "id": "way/10105133",
+    "properties": {
+        "type": "way",
+        "id": 10105133,
+        "tags": {
+            "highway": "track",
+            "tiger:cfcc": "A41",
+            "tiger:county": "Garfield, UT",
+            "tiger:reviewed": "no",
+            "tiger:separated": "no",
+            "tiger:source": "tiger_import_dch_v0.6_20070830",
+            "tiger:tlid": "166021498",
+            "tiger:upload_uuid": "bulk_upload.pl-f58d2069-4894-442d-a4d8-6a512612b57a",
+            "tracktype": "grade2"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -110.6727504,
+                37.9643072
+            ],
+            [
+                -110.6722818,
+                37.9646959
+            ],
+            [
+                -110.6720891,
+                37.9648557
+            ]
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3303393839",
+    "properties": {
+        "type": "node",
+        "id": "3303393839",
+        "tags": {
+            "name": "Oak Spring",
+            "natural": "spring"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8390433,
+            38.155271
+        ]
+    }
+}

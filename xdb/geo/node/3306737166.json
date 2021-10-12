@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3306737166",
+    "properties": {
+        "type": "node",
+        "id": "3306737166",
+        "tags": {
+            "name": "Blue Basin",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7853576,
+            38.1013237
+        ]
+    }
+}

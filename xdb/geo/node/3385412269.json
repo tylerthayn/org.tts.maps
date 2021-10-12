@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3385412269",
+    "properties": {
+        "type": "node",
+        "id": "3385412269",
+        "tags": {
+            "ele": "2170",
+            "name": "Frog Point",
+            "natural": "peak"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8801273,
+            37.9805244
+        ]
+    }
+}

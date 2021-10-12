@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3425239789",
+    "properties": {
+        "type": "node",
+        "id": "3425239789",
+        "tags": {
+            "name": "Horseshoe Basin",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7721654,
+            38.1434501
+        ]
+    }
+}

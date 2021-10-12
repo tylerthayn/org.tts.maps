@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/2940778766",
+            "properties": {
+                "type": "node",
+                "id": 2940778766,
+                "tags": {
+                    "leaf_type": "needleleaved",
+                    "natural": "tree"
+                },
+                "relations": [],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.0608344,
+                    38.26219
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3404167948",
+    "properties": {
+        "type": "node",
+        "id": "3404167948",
+        "tags": {
+            "name": "Copper Basin",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7698672,
+            38.0559715
+        ]
+    }
+}

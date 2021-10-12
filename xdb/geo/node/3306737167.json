@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3306737167",
+    "properties": {
+        "type": "node",
+        "id": "3306737167",
+        "tags": {
+            "name": "Little Meadow",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7535155,
+            38.1872603
+        ]
+    }
+}

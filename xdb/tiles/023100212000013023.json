@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/3290007172",
+            "properties": {
+                "type": "node",
+                "id": 3290007172,
+                "tags": {
+                    "name": "Blue Flats",
+                    "place": "locality"
+                },
+                "relations": [],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.0583651,
+                    38.2597879
+                ]
+            }
+        }
+    ]
+}

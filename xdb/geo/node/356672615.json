@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "node/356672615",
+    "properties": {
+        "type": "node",
+        "id": "356672615",
+        "tags": {
+            "ele": "2912",
+            "gnis:county_id": "017",
+            "gnis:created": "12/31/1979",
+            "gnis:feature_id": "1427633",
+            "gnis:state_id": "49",
+            "name": "Durfey Butte",
+            "natural": "peak"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8242441,
+            38.0705583
+        ]
+    }
+}

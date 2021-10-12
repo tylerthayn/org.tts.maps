@@ -1,0 +1,2264 @@
+{
+    "type": [
+        "relation",
+        "way",
+        "node"
+    ],
+    "id": [
+        445605,
+        1744359,
+        5862952,
+        5862990,
+        5864045,
+        145928492,
+        147260700,
+        148029147,
+        323155711,
+        323353181,
+        324561102,
+        331547030,
+        333283606,
+        333283607,
+        333283608,
+        333283609,
+        333283610,
+        333283613,
+        333295301,
+        683429787,
+        10101613,
+        10101780,
+        10101922,
+        10103087,
+        10103315,
+        10104396,
+        10104430,
+        10104738,
+        10203299,
+        24315240,
+        77035594,
+        129193840,
+        129193906,
+        144599498,
+        144911354,
+        145907987,
+        145908041,
+        145928477,
+        145928490,
+        145928525,
+        147035905,
+        147144659,
+        147145321,
+        147145322,
+        147145328,
+        147145331,
+        147145332,
+        147145850,
+        147146314,
+        147146315,
+        147229390,
+        147229391,
+        147229659,
+        147229660,
+        147235365,
+        147256180,
+        147258801,
+        147258806,
+        147258819,
+        147258823,
+        147258830,
+        147258835,
+        147258838,
+        147258842,
+        147258845,
+        147258848,
+        147258854,
+        147258872,
+        147258878,
+        147260698,
+        147260702,
+        147260703,
+        147260735,
+        147260738,
+        147261284,
+        147261285,
+        147288515,
+        147289889,
+        147290950,
+        147290951,
+        147290952,
+        147290953,
+        147290954,
+        148037024,
+        148428177,
+        152088929,
+        175974204,
+        314167705,
+        314874905,
+        314874907,
+        315061561,
+        315061563,
+        321213521,
+        322971487,
+        322971488,
+        322971489,
+        322971491,
+        322971494,
+        322971497,
+        323048587,
+        323155713,
+        323155719,
+        323155720,
+        323155722,
+        323155723,
+        323155725,
+        323155727,
+        323155729,
+        323155731,
+        323260178,
+        323260181,
+        323353155,
+        323553671,
+        323553673,
+        323553678,
+        323553679,
+        323553680,
+        323553681,
+        323553683,
+        323553685,
+        323603590,
+        323603592,
+        323603596,
+        323603597,
+        323603598,
+        323603599,
+        323716229,
+        323716238,
+        323716239,
+        323716240,
+        323716241,
+        323716246,
+        323724733,
+        323900499,
+        323900531,
+        323900546,
+        323900585,
+        323900586,
+        323900590,
+        323900610,
+        323900612,
+        324485088,
+        324485089,
+        324485091,
+        324561103,
+        330929211,
+        331547003,
+        331547006,
+        331547008,
+        331547016,
+        331547023,
+        331547032,
+        331547033,
+        331929588,
+        332972354,
+        332972355,
+        332972356,
+        332972357,
+        332972363,
+        333170201,
+        333270919,
+        333270923,
+        333283611,
+        333295297,
+        333969250,
+        335413437,
+        391674012,
+        391674013,
+        391915447,
+        391915451,
+        391915455,
+        391923815,
+        590590097,
+        590590102,
+        657044625,
+        657044626,
+        657044627,
+        657044731,
+        657048595,
+        657048598,
+        657334400,
+        664981864,
+        664981865,
+        664981866,
+        664981867,
+        664981868,
+        664981869,
+        664986057,
+        664986058,
+        664986909,
+        664986910,
+        664986911,
+        664986912,
+        664986913,
+        664988417,
+        664988418,
+        664988419,
+        664988420,
+        664988421,
+        664988422,
+        776138400,
+        776138401,
+        776138402,
+        780085463,
+        780085464,
+        780085465,
+        780085466,
+        780085467,
+        780085468,
+        780085469,
+        943013536,
+        943013537,
+        943013538,
+        943013539,
+        943013541,
+        943013542,
+        943013543,
+        943013544,
+        "83110801",
+        "83113317",
+        "83113426",
+        "83114507",
+        "83126636",
+        "83137737",
+        "83197820",
+        "150963708",
+        "150968387",
+        "316999527",
+        "316999529",
+        "356671992",
+        "356672201",
+        "356672437",
+        "356672553",
+        "356672604",
+        "356672615",
+        "356672649",
+        "356673353",
+        "356673914",
+        "356674445",
+        "356674530",
+        "356674630",
+        "1129584322",
+        "1592193496",
+        "1611410974",
+        "3202148695",
+        "3211499796",
+        "3229765487",
+        "3229765488",
+        "3229768716",
+        "3297726503",
+        "3297726505",
+        "3297726506",
+        "3297726507",
+        "3297726509",
+        "3297726510",
+        "3297726527",
+        "3297726539",
+        "3297726543",
+        "3298935339",
+        "3299494602",
+        "3299494603",
+        "3299494604",
+        "3299494606",
+        "3300542817",
+        "3300544804",
+        "3303393836",
+        "3303393837",
+        "3303393839",
+        "3303393840",
+        "3303394097",
+        "3303394219",
+        "3303394625",
+        "3303396090",
+        "3303852539",
+        "3304458772",
+        "3304968614",
+        "3304968615",
+        "3304968616",
+        "3304969373",
+        "3306737166",
+        "3306737167",
+        "3306737168",
+        "3306737170",
+        "3306737183",
+        "3306737301",
+        "3306738791",
+        "3306738926",
+        "3386170185",
+        "3386170186",
+        "3386170188",
+        "3386171540",
+        "3393241954",
+        "3400918680",
+        "3400918681",
+        "3400918682",
+        "3400918684",
+        "3400918685",
+        "3400918687",
+        "3400918688",
+        "3400918691",
+        "3400918692",
+        "3400922755",
+        "3403962627",
+        "3404046152",
+        "3404046169",
+        "3404046954",
+        "3404167947",
+        "3404167948",
+        "3404167949",
+        "3404168274",
+        "3404168558",
+        "3425239783",
+        "3425239784",
+        "3425239785",
+        "3425239786",
+        "3425239789",
+        "3425239790",
+        "8303340546"
+    ],
+    "tags.admin_level": [
+        "6"
+    ],
+    "tags.alt_name": [
+        "Wayne",
+        "Garfield",
+        "Sawmill Basin Road"
+    ],
+    "tags.boundary": [
+        "administrative",
+        "protected_area"
+    ],
+    "tags.name": [
+        "Wayne County",
+        "Garfield County",
+        "Bull Mountain Wilderness Study Area",
+        "Mount Ellen-Blue Hills Wilderness Study Area",
+        "Mount Pennell Wilderness Study Area",
+        "BLM Ranger Station",
+        "Bromide Mine",
+        "Henry Mountains",
+        "Nasty Flat Road",
+        "Henry Mountains Road",
+        "The Horn Road",
+        "Garden Basin Road",
+        "South Fairview Road",
+        "Notom To Oak Creek Road",
+        "Bullfrog Creek",
+        "Box Spring Road",
+        "Crescent Creek Road",
+        "Hite Crossing Bridge",
+        "Lonesome Beaver Road",
+        "Copper Ridge Road",
+        "Dugout Road",
+        "Granite Creek",
+        "Bull Creek Pass Road",
+        "King Ranch Road",
+        "Sweetwater Creek",
+        "Dugout Creek",
+        "South Creek",
+        "Willow Creek",
+        "Cedar Creek",
+        "Dry Wash",
+        "Bert Avery Road",
+        "Cottonwood Creek",
+        "Oak Creek",
+        "Birch Creek",
+        "Mc Clellan Wash",
+        "Bull Creek",
+        "Durfey Flat Road",
+        "Sawmill Bench Trail",
+        "McMillan Springs Road",
+        "Tarantula Mesa Road",
+        "Slate Creek",
+        "North Fork Bullfrog Creek",
+        "Butler Wash",
+        "Copper Creek",
+        "Bromide Canyon / Crescent Creek",
+        "Crescent Creek",
+        "Raggy Canyon",
+        "Collie Wash",
+        "Mount Ellen Creek",
+        "Notom-Bullfrog Road",
+        "Lone Cedar Road",
+        "Crescent Creek Junction",
+        "Bull Creek Pass",
+        "Wickiup Pass",
+        "King Ranch Junction",
+        "Pennellen Pass",
+        "Trachyte Junction",
+        "Loa",
+        "Panguitch",
+        "Garfield",
+        "Wayne",
+        "Bartons Peak",
+        "Bull Mountain",
+        "Corral Point",
+        "Deer Heaven",
+        "Dry Lakes Peak",
+        "Durfey Butte",
+        "Mount Ellen Peak",
+        "Kimble And Turner Peak",
+        "Ragged Mountain",
+        "Table Mountain",
+        "The Horn",
+        "Turn of Bullfrog",
+        "Stevens Narrows",
+        "McMillan Springs Campground",
+        "Jet Basin",
+        "Lost Spring",
+        "Dandelion Flat",
+        "Granite Ridges",
+        "Log Flat",
+        "Pearl Flat",
+        "Sage Flat",
+        "Star Flat",
+        "Dave Teeples Spring",
+        "Cedar Creek Bench",
+        "Dry Lake Flat",
+        "Nasty Flat",
+        "Willow Spring",
+        "Cottonwood Spring",
+        "Oak Creek Bench",
+        "Oak Spring",
+        "Birch Spring",
+        "Cold Spring",
+        "The Narrows",
+        "Blue Basin",
+        "Little Meadow",
+        "Sawmill Basin",
+        "Wickiup Ridge",
+        "Box Spring",
+        "Garden Basin",
+        "Slate Flat",
+        "Airplane Spring",
+        "Bromide Basin",
+        "Burned Ridge",
+        "Head of Bullfrog",
+        "North Summit Ridge",
+        "Pistol Ridge",
+        "South Creek Ridge",
+        "South Summit Ridge",
+        "Mud Spring",
+        "Copper Basin Spring",
+        "Copper Basin",
+        "Copper Ridge",
+        "Bacon Slide",
+        "Cottonwood Pass",
+        "Dry Lakes Area",
+        "East Saddle",
+        "Horseshoe Basin",
+        "Horseshoe Ridge",
+        "Mount Ellen"
+    ],
+    "tags.nist:fips_code": [
+        "49055",
+        "49017"
+    ],
+    "tags.nist:state_fips": [
+        "49"
+    ],
+    "tags.type": [
+        "boundary"
+    ],
+    "tags.wikidata": [
+        "Q27045",
+        "Q26740",
+        "Q49402072",
+        "Q26935",
+        "Q49052580",
+        "Q22073355",
+        "Q8525257"
+    ],
+    "tags.wikipedia": [
+        "en:Wayne County, Utah",
+        "en:Garfield County, Utah",
+        "en:Hite Crossing Bridge",
+        "en:Mount Ellen (Utah)"
+    ],
+    "relations": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "outer",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [
+            {
+                "role": "",
+                "rel": "9137148",
+                "reltags": {
+                    "description": "Utah Seg 3: Hite to Boulder",
+                    "distance": "88.98",
+                    "name": "ADT - Utah - R - Seg 3",
+                    "network": "nwn",
+                    "operator": "American Discovery Trail Society",
+                    "ref": "ADT R3",
+                    "route": "hiking",
+                    "type": "route"
+                }
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+            {
+                "role": "admin_centre",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "admin_centre",
+                "rel": "1744359",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Garfield",
+                    "attribution": "USGS 2001 County Boundary",
+                    "border_type": "county",
+                    "boundary": "administrative",
+                    "name": "Garfield County",
+                    "nist:fips_code": "49017",
+                    "nist:state_fips": "49",
+                    "source": "county_import_v0.1_20080508235455",
+                    "type": "boundary",
+                    "wikidata": "Q26740",
+                    "wikipedia": "en:Garfield County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "label",
+                "rel": "1744359",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Garfield",
+                    "attribution": "USGS 2001 County Boundary",
+                    "border_type": "county",
+                    "boundary": "administrative",
+                    "name": "Garfield County",
+                    "nist:fips_code": "49017",
+                    "nist:state_fips": "49",
+                    "source": "county_import_v0.1_20080508235455",
+                    "type": "boundary",
+                    "wikidata": "Q26740",
+                    "wikipedia": "en:Garfield County, Utah"
+                }
+            }
+        ],
+        [
+            {
+                "role": "label",
+                "rel": "445605",
+                "reltags": {
+                    "admin_level": "6",
+                    "alt_name": "Wayne",
+                    "boundary": "administrative",
+                    "name": "Wayne County",
+                    "nist:fips_code": "49055",
+                    "nist:state_fips": "49",
+                    "type": "boundary",
+                    "wikidata": "Q27045",
+                    "wikipedia": "en:Wayne County, Utah"
+                }
+            }
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    "meta": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "tags.attribution": [
+        "USGS 2001 County Boundary"
+    ],
+    "tags.border_type": [
+        "county"
+    ],
+    "tags.source": [
+        "county_import_v0.1_20080508235455",
+        "Bing",
+        "http://recorded2477roads.utah.gov/garfield/b-roads/index.html",
+        "http://recorded2477roads.utah.gov/wayne/b-roads/index.html",
+        "TIGER. Yahoo!, Bing",
+        "USGS Topo map"
+    ],
+    "tags.leisure": [
+        "nature_reserve"
+    ],
+    "tags.operator": [
+        "BLM"
+    ],
+    "tags.ownership": [
+        "national"
+    ],
+    "tags.protect_class": [
+        "1b"
+    ],
+    "tags.protection_title": [
+        "Wilderness Study Area"
+    ],
+    "tags.intermittent": [
+        "yes"
+    ],
+    "tags.natural": [
+        "water",
+        "mountain_range",
+        "saddle",
+        "peak",
+        "spring"
+    ],
+    "tags.water": [
+        "pond",
+        "reservoir"
+    ],
+    "tags.building": [
+        "public",
+        "yes"
+    ],
+    "tags.addr:state": [
+        "UT"
+    ],
+    "tags.ele": [
+        "3193",
+        "3196",
+        "2816",
+        "2153",
+        "2019",
+        "3034",
+        "2793",
+        "3002",
+        "3197",
+        "3182",
+        "2912",
+        "3495",
+        "3388",
+        "2742",
+        "2584",
+        "2778",
+        "2182",
+        "3512"
+    ],
+    "tags.gnis:county_name": [
+        "Garfield"
+    ],
+    "tags.gnis:created": [
+        "12/31/1979"
+    ],
+    "tags.gnis:feature_id": [
+        "1425994",
+        "1425309",
+        "1426127",
+        "1426886",
+        "1427306",
+        "1427572",
+        "1427633",
+        "1427799",
+        "1429350",
+        "1431544",
+        "1433162",
+        "1433342",
+        "1433705"
+    ],
+    "tags.gnis:feature_type": [
+        "Mine"
+    ],
+    "tags.landuse": [
+        "quarry"
+    ],
+    "tags.highway": [
+        "track",
+        "unclassified",
+        "service",
+        "primary",
+        "path",
+        "secondary",
+        "tertiary",
+        "footway"
+    ],
+    "tags.official_ref": [
+        "CR 0205B",
+        "CR 0206B",
+        "CR 0211B",
+        "CR 1186",
+        "CR 2003",
+        "CR 0213B",
+        "CR 0209B",
+        "CR 0008D",
+        "CR 207BS",
+        "CR 0207B",
+        "CR 0202B",
+        "CR 0204B",
+        "CR 0201B",
+        "CR 0053D",
+        "CR 0210B"
+    ],
+    "tags.ref": [
+        "BLM 14400",
+        "BLM 14450",
+        "BLM 14550",
+        "BLM 14250",
+        "BLM 14115",
+        "CR 96",
+        "UT 95",
+        "BLM 12010",
+        "BLM 14078",
+        "BLM 14002",
+        "CR 94",
+        "BLM 14500",
+        "BLM 14130",
+        "BLM 9311",
+        "BLM 9312",
+        "BLM 0966",
+        "BLM 14240",
+        "UT 12",
+        "BLM 14900"
+    ],
+    "tags.surface": [
+        "dirt",
+        "asphalt"
+    ],
+    "tags.tracktype": [
+        "grade3",
+        "grade2",
+        "grade5",
+        "grade4"
+    ],
+    "tags.lanes": [
+        "2",
+        "4",
+        "3"
+    ],
+    "tags.tiger:cfcc": [
+        "A41"
+    ],
+    "tags.tiger:county": [
+        "Garfield, UT"
+    ],
+    "tags.waterway": [
+        "stream",
+        "ditch",
+        "weir"
+    ],
+    "tags.tiger:reviewed": [
+        "no"
+    ],
+    "tags.tiger:separated": [
+        "no"
+    ],
+    "tags.tiger:source": [
+        "tiger_import_dch_v0.6_20070830"
+    ],
+    "tags.tiger:tlid": [
+        "166020728:166020821"
+    ],
+    "tags.tiger:upload_uuid": [
+        "bulk_upload.pl-f58d2069-4894-442d-a4d8-6a512612b57a"
+    ],
+    "tags.bridge": [
+        "yes"
+    ],
+    "tags.layer": [
+        "1"
+    ],
+    "tags.smoothness": [
+        "very_bad",
+        "horrible"
+    ],
+    "tags.barrier": [
+        "fence",
+        "cattle_grid",
+        "gate"
+    ],
+    "tags.foot": [
+        "yes"
+    ],
+    "tags.description": [
+        "Forced to show a connection to another track at it's SE end. Unclear how this track connects to others in this area. "
+    ],
+    "tags.lanes:backward": [
+        "2",
+        "1"
+    ],
+    "tags.lanes:forward": [
+        "2",
+        "1"
+    ],
+    "tags.turn:lanes:backward": [
+        "left|none"
+    ],
+    "tags.turn:lanes:forward": [
+        "none|right"
+    ],
+    "tags.junction": [
+        "yes"
+    ],
+    "tags.mountain_pass": [
+        "yes"
+    ],
+    "tags.bicycle": [
+        "yes"
+    ],
+    "tags.census:population": [
+        "515;2006",
+        "1485;2006"
+    ],
+    "tags.gnis:County": [
+        "Wayne",
+        "Garfield"
+    ],
+    "tags.gnis:County_num": [
+        "055",
+        "017"
+    ],
+    "tags.gnis:ST_alpha": [
+        "UT"
+    ],
+    "tags.gnis:ST_num": [
+        "49"
+    ],
+    "tags.gnis:id": [
+        "1442822",
+        "1444170"
+    ],
+    "tags.import_uuid": [
+        "bb7269ee-502a-5391-8056-e3ce0e66489c"
+    ],
+    "tags.place": [
+        "town",
+        "county",
+        "locality"
+    ],
+    "tags.population": [
+        "515",
+        "1485"
+    ],
+    "tags.gnis:county_id": [
+        "017",
+        "055"
+    ],
+    "tags.gnis:state_id": [
+        "49"
+    ],
+    "tags.tourism": [
+        "camp_site"
+    ],
+    "tags.man_made": [
+        "adit",
+        "tower"
+    ],
+    "tags.tower:type": [
+        "communication"
+    ],
+    "tags.fixme": [
+        "fix position, fix elevation"
+    ]
+}

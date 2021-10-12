@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>McClellan Creek</name>
+  <trkseg>
+    <trkpt lat="38.141298098" lon="-110.791262485">
+      <ele>2729.924</ele>
+    </trkpt>
+    <trkpt lat="38.142214691" lon="-110.791177985">
+      <ele>2701.105</ele>
+    </trkpt>
+    <trkpt lat="38.142741082" lon="-110.791070797">
+      <ele>2678.84</ele>
+    </trkpt>
+    <trkpt lat="38.143170661" lon="-110.791222809">
+      <ele>2667.901</ele>
+    </trkpt>
+    <trkpt lat="38.143659732" lon="-110.791297374">
+      <ele>2650.205</ele>
+    </trkpt>
+    <trkpt lat="38.144271068" lon="-110.791361888">
+      <ele>2626.606</ele>
+    </trkpt>
+    <trkpt lat="38.144784505" lon="-110.791762135">
+      <ele>2605.727</ele>
+    </trkpt>
+    <trkpt lat="38.1451207" lon="-110.792120807">
+      <ele>2594.127</ele>
+    </trkpt>
+    <trkpt lat="38.145663961" lon="-110.792302684">
+      <ele>2578.988</ele>
+    </trkpt>
+    <trkpt lat="38.146243585" lon="-110.792466568">
+      <ele>2568.903</ele>
+    </trkpt>
+    <trkpt lat="38.146578669" lon="-110.792146379">
+      <ele>2554.161</ele>
+    </trkpt>
+    <trkpt lat="38.146925619" lon="-110.791786458">
+      <ele>2536.451</ele>
+    </trkpt>
+    <trkpt lat="38.147249036" lon="-110.791667029">
+      <ele>2524.597</ele>
+    </trkpt>
+    <trkpt lat="38.147884554" lon="-110.791624989">
+      <ele>2504.064</ele>
+    </trkpt>
+    <trkpt lat="38.148879465" lon="-110.791669142">
+      <ele>2475.692</ele>
+    </trkpt>
+    <trkpt lat="38.149560344" lon="-110.791745815">
+      <ele>2453.352</ele>
+    </trkpt>
+    <trkpt lat="38.150403404" lon="-110.79208621">
+      <ele>2415.995</ele>
+    </trkpt>
+    <trkpt lat="38.151006152" lon="-110.792387982">
+      <ele>2403.024</ele>
+    </trkpt>
+    <trkpt lat="38.15205765" lon="-110.79260351">
+      <ele>2374.91</ele>
+    </trkpt>
+    <trkpt lat="38.153263316" lon="-110.792787354">
+      <ele>2338.315</ele>
+    </trkpt>
+    <trkpt lat="38.154088888" lon="-110.793116087">
+      <ele>2314.2</ele>
+    </trkpt>
+    <trkpt lat="38.154912508" lon="-110.793233731">
+      <ele>2281.761</ele>
+    </trkpt>
+    <trkpt lat="38.156482437" lon="-110.793813231">
+      <ele>2250.282</ele>
+    </trkpt>
+    <trkpt lat="38.157933195" lon="-110.793788379">
+      <ele>2215.053</ele>
+    </trkpt>
+    <trkpt lat="38.158865065" lon="-110.794143492">
+      <ele>2194.344</ele>
+    </trkpt>
+    <trkpt lat="38.160230308" lon="-110.793463415">
+      <ele>2171.416</ele>
+    </trkpt>
+    <trkpt lat="38.161371856" lon="-110.793012377">
+      <ele>2153.759</ele>
+    </trkpt>
+    <trkpt lat="38.162418672" lon="-110.793363663">
+      <ele>2129.072</ele>
+    </trkpt>
+    <trkpt lat="38.163775371" lon="-110.793448736">
+      <ele>2097.539</ele>
+    </trkpt>
+    <trkpt lat="38.164574582" lon="-110.793227038">
+      <ele>2083.266</ele>
+    </trkpt>
+    <trkpt lat="38.165381883" lon="-110.792420366">
+      <ele>2075.981</ele>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

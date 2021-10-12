@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3386170185",
+    "properties": {
+        "type": "node",
+        "id": "3386170185",
+        "tags": {
+            "name": "Box Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8039408,
+            38.0122933
+        ]
+    }
+}

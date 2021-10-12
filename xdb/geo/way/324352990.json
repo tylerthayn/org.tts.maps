@@ -1,0 +1,36 @@
+{
+    "type": "Feature",
+    "id": "way/324352990",
+    "properties": {
+        "type": "way",
+        "id": 324352990,
+        "tags": {
+            "highway": "track",
+            "source": "Bing",
+            "tracktype": "grade2"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -111.1237104,
+                38.0714149
+            ],
+            [
+                -111.123701,
+                38.0714754
+            ],
+            [
+                -111.1236485,
+                38.071527
+            ],
+            [
+                -111.1236101,
+                38.0715658
+            ]
+        ]
+    }
+}

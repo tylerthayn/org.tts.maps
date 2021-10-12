@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3404167947",
+    "properties": {
+        "type": "node",
+        "id": "3404167947",
+        "tags": {
+            "name": "Copper Basin Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7673673,
+            38.0557347
+        ]
+    }
+}

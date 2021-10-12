@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3404167949",
+    "properties": {
+        "type": "node",
+        "id": "3404167949",
+        "tags": {
+            "name": "Copper Ridge",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7572153,
+            38.0485919
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "node/356672553",
+    "properties": {
+        "type": "node",
+        "id": "356672553",
+        "tags": {
+            "ele": "3197",
+            "gnis:county_id": "017",
+            "gnis:created": "12/31/1979",
+            "gnis:feature_id": "1427306",
+            "gnis:state_id": "49",
+            "name": "Deer Heaven",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8303541,
+            38.1336331
+        ]
+    }
+}

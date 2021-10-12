@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3303393836",
+    "properties": {
+        "type": "node",
+        "id": "3303393836",
+        "tags": {
+            "name": "Cottonwood Spring",
+            "natural": "spring"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8264394,
+            38.1461167
+        ]
+    }
+}

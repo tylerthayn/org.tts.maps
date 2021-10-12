@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3391769086",
+    "properties": {
+        "type": "node",
+        "id": "3391769086",
+        "tags": {
+            "name": "Copper Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7008795,
+            37.8481509
+        ]
+    }
+}

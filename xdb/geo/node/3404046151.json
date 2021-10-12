@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3404046151",
+    "properties": {
+        "type": "node",
+        "id": "3404046151",
+        "tags": {
+            "name": "Lecleed Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7100423,
+            38.0789831
+        ]
+    }
+}

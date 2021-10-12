@@ -1,0 +1,41 @@
+{
+    "type": "Feature",
+    "id": "way/147290956",
+    "properties": {
+        "type": "way",
+        "id": 147290956,
+        "tags": {
+            "highway": "track",
+            "source": "Bing",
+            "surface": "dirt",
+            "tracktype": "grade5"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -110.8948186,
+                38.1282561
+            ],
+            [
+                -110.8956409,
+                38.1281775
+            ],
+            [
+                -110.896374,
+                38.1278864
+            ],
+            [
+                -110.8974631,
+                38.127612
+            ],
+            [
+                -110.8980723,
+                38.1273438
+            ]
+        ]
+    }
+}

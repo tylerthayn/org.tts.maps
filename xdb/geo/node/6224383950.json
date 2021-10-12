@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/6224383950",
+    "properties": {
+        "type": "node",
+        "id": "6224383950",
+        "tags": {
+            "historic": "mine",
+            "name": "Prospect (USGS top)"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7077455,
+            38.0748956
+        ]
+    }
+}

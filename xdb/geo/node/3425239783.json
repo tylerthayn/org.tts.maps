@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3425239783",
+    "properties": {
+        "type": "node",
+        "id": "3425239783",
+        "tags": {
+            "name": "Bacon Slide",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7986443,
+            38.1568551
+        ]
+    }
+}

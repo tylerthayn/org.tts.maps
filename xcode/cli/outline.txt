@@ -1,0 +1,19 @@
+
+maps
+	config
+	db
+		status
+
+	kml
+		export
+			geoJSON
+			gpx
+		styles
+	server
+		status
+		start
+		stop
+	tile <key> --type type --original
+	tiles
+		
+	

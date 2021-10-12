@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "node/2940778763",
+            "properties": {
+                "type": "node",
+                "id": 2940778763,
+                "tags": {
+                    "leaf_type": "needleleaved",
+                    "natural": "tree"
+                },
+                "relations": [],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.059093,
+                    38.2645574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/2940778764",
+            "properties": {
+                "type": "node",
+                "id": 2940778764,
+                "tags": {
+                    "leaf_type": "needleleaved",
+                    "natural": "tree"
+                },
+                "relations": [],
+                "meta": {}
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.0580708,
+                    38.264239
+                ]
+            }
+        }
+    ]
+}

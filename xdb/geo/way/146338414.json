@@ -1,0 +1,31 @@
+{
+    "type": "Feature",
+    "id": "way/146338414",
+    "properties": {
+        "type": "way",
+        "id": 146338414,
+        "tags": {
+            "highway": "service",
+            "source": "Bing"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -110.6632877,
+                37.8490796
+            ],
+            [
+                -110.6631319,
+                37.848946
+            ],
+            [
+                -110.6629139,
+                37.8489039
+            ]
+        ]
+    }
+}

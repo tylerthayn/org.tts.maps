@@ -1,0 +1,28 @@
+{
+    "type": "Feature",
+    "id": "way/657044625",
+    "properties": {
+        "type": "way",
+        "id": 657044625,
+        "tags": {
+            "highway": "tertiary",
+            "name": "Notom-Bullfrog Road",
+            "surface": "dirt"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -111.0693546,
+                38.1026159
+            ],
+            [
+                -111.0694309,
+                38.1031865
+            ]
+        ]
+    }
+}

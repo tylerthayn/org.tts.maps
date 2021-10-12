@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+  <name>24th-2</name>
+  <trkseg>
+    <trkpt lat="38.148630701" lon="-110.799266038">
+      <ele>2461.011</ele>
+    </trkpt>
+    <trkpt lat="38.148635372" lon="-110.798348015">
+      <ele>2475.868</ele>
+    </trkpt>
+    <trkpt lat="38.148564356" lon="-110.798125433">
+      <ele>2483.221</ele>
+    </trkpt>
+    <trkpt lat="38.148692269" lon="-110.797729688">
+      <ele>2493.293</ele>
+    </trkpt>
+    <trkpt lat="38.148725307" lon="-110.797330574">
+      <ele>2508.39</ele>
+    </trkpt>
+    <trkpt lat="38.148660127" lon="-110.797052244">
+      <ele>2520.507</ele>
+    </trkpt>
+    <trkpt lat="38.148294738" lon="-110.796691823">
+      <ele>2538.713</ele>
+    </trkpt>
+    <trkpt lat="38.147836281" lon="-110.796460595">
+      <ele>2555.704</ele>
+    </trkpt>
+    <trkpt lat="38.147638946" lon="-110.796395317">
+      <ele>2562.38</ele>
+    </trkpt>
+    <trkpt lat="38.147323272" lon="-110.795751582">
+      <ele>2584.512</ele>
+    </trkpt>
+    <trkpt lat="38.147101538" lon="-110.79495908">
+      <ele>2608.448</ele>
+    </trkpt>
+    <trkpt lat="38.146859436" lon="-110.794623996">
+      <ele>2620.075</ele>
+    </trkpt>
+    <trkpt lat="38.146667476" lon="-110.794305504">
+      <ele>2629.537</ele>
+    </trkpt>
+    <trkpt lat="38.145986767" lon="-110.794278571">
+      <ele>2646.05</ele>
+    </trkpt>
+    <trkpt lat="38.144925106" lon="-110.794433784">
+      <ele>2679.813</ele>
+    </trkpt>
+    <trkpt lat="38.144450374" lon="-110.794495501">
+      <ele>2697.773</ele>
+    </trkpt>
+    <trkpt lat="38.143046281" lon="-110.794178074">
+      <ele>2760.916</ele>
+    </trkpt>
+    <trkpt lat="38.141724572" lon="-110.793911554">
+      <ele>2805.049</ele>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "node/356675472",
+    "properties": {
+        "type": "node",
+        "id": "356675472",
+        "tags": {
+            "ele": "1585",
+            "gnis:county_id": "055",
+            "gnis:created": "02/25/1989",
+            "gnis:feature_id": "1435166",
+            "gnis:state_id": "49",
+            "name": "Blue Knoll",
+            "natural": "peak"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.6920952,
+            38.1891511
+        ]
+    }
+}

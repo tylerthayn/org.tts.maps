@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3400918681",
+    "properties": {
+        "type": "node",
+        "id": "3400918681",
+        "tags": {
+            "name": "Birch Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8514886,
+            38.0485339
+        ]
+    }
+}

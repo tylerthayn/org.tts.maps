@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3297726506",
+    "properties": {
+        "type": "node",
+        "id": "3297726506",
+        "tags": {
+            "name": "Log Flat",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7830739,
+            38.1124343
+        ]
+    }
+}

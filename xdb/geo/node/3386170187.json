@@ -1,0 +1,22 @@
+{
+    "type": "Feature",
+    "id": "node/3386170187",
+    "properties": {
+        "type": "node",
+        "id": "3386170187",
+        "tags": {
+            "name": "Hancock Spring",
+            "natural": "spring",
+            "source": "USGS Topo map"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7913201,
+            37.9788939
+        ]
+    }
+}

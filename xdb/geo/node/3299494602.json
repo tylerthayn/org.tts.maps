@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3299494602",
+    "properties": {
+        "type": "node",
+        "id": "3299494602",
+        "tags": {
+            "name": "Cedar Creek Bench",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8886868,
+            38.1302793
+        ]
+    }
+}

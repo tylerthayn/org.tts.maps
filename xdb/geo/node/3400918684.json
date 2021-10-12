@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3400918684",
+    "properties": {
+        "type": "node",
+        "id": "3400918684",
+        "tags": {
+            "name": "Burned Ridge",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.8086827,
+            38.0874703
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "org.tts.js.maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerthayn/org.tts.js.maps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerthayn/org.tts.js.maps/issues"
+  },
+  "homepage": "https://github.com/tylerthayn/org.tts.js.maps#readme",
+  "devDependencies": {
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "org.tts.js.lodash": "^1.0.0",
+    "path": "^0.12.7"
+  }
+}

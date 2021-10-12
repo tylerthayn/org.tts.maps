@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "id": "node/3297726505",
+    "properties": {
+        "type": "node",
+        "id": "3297726505",
+        "tags": {
+            "name": "Granite Ridges",
+            "place": "locality"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7720671,
+            38.0846227
+        ]
+    }
+}

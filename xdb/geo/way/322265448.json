@@ -1,0 +1,29 @@
+{
+    "type": "Feature",
+    "id": "way/322265448",
+    "properties": {
+        "type": "way",
+        "id": 322265448,
+        "tags": {
+            "layer": "-1",
+            "source": "Bing",
+            "tunnel": "culvert",
+            "waterway": "ditch"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                -111.131552,
+                38.079654
+            ],
+            [
+                -111.1315284,
+                38.0795981
+            ]
+        ]
+    }
+}

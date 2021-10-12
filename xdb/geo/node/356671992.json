@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "id": "node/356671992",
+    "properties": {
+        "type": "node",
+        "id": "356671992",
+        "tags": {
+            "ele": "3034",
+            "gnis:county_id": "017",
+            "gnis:created": "12/31/1979",
+            "gnis:feature_id": "1425309",
+            "gnis:state_id": "49",
+            "name": "Bartons Peak",
+            "natural": "peak"
+        },
+        "relations": [],
+        "meta": {}
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -110.7715585,
+            38.0680992
+        ]
+    }
+}
