@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name/>
+    <Placemark>
+      <name>630174617</name>
+      <styleUrl>#Road_ATV</styleUrl>
+      <ExtendedData>
+        <Data name="@id">
+          <value>way/630174617</value>
+        </Data>
+        <Data name="bicycle">
+          <value>yes</value>
+        </Data>
+        <Data name="hgv">
+          <value>designated</value>
+        </Data>
+        <Data name="highway">
+          <value>motorway</value>
+        </Data>
+        <Data name="lanes">
+          <value>2</value>
+        </Data>
+        <Data name="maxspeed">
+          <value>80 mph</value>
+        </Data>
+        <Data name="old_ref">
+          <value>SR 4</value>
+        </Data>
+        <Data name="oneway">
+          <value>yes</value>
+        </Data>
+        <Data name="ref">
+          <value>I 70;US 50</value>
+        </Data>
+        <Data name="tiger:name_base">
+          <value>I-70</value>
+        </Data>
+        <Data name="tiger:name_base_2">
+          <value>United States Highway 50</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <coordinates>-110.2439028,38.9778568 -110.2520208,38.975067 -110.2544683,38.9742169 -110.2594982,38.9724482 -110.2673027,38.9694881 -110.2837515,38.9634686 -110.2970307,38.9584926 -110.3106672,38.9534395 -110.3179744,38.950277 -110.3215142,38.9483057 -110.3283533,38.9444662 -110.3307514,38.9431651 -110.3355439,38.9410724 -110.3398106,38.9395827 -110.3416244,38.9389181 -110.3438742,38.9379307 -110.3479642,38.9358424 -110.3512404,38.934155 -110.3523842,38.9335662 -110.355956,38.9319797 -110.3621069,38.9294435 -110.3628141,38.9291213 -110.3632449,38.9289158 -110.3639949,38.9285493 -110.3648331,38.9281176 -110.3660413,38.9274404 -110.3668731,38.9269762 -110.367394,38.9267061 -110.3683365,38.9261908 -110.3690489,38.9258187 -110.3695336,38.9255752 -110.3697665,38.9254574 -110.3702112,38.9252566</coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="Road_">
+		<LineStyle>
+			<color>bb000000</color>
+			<width>5</width>
+			<gx:physicalWidth>12</gx:physicalWidth>
+			<gx:outerColor>bbbbffff</gx:outerColor>
+			<gx:outerWidth>0.5</gx:outerWidth>
+		</LineStyle>
+	</Style>
+	<Style id="Road_Hike_">
+		<LineStyle>
+			<color>bb000000</color>
+			<width>3</width>
+			<gx:physicalWidth>8</gx:physicalWidth>
+			<gx:outerColor>bbff00ff</gx:outerColor>
+			<gx:outerWidth>0.75</gx:outerWidth>
+		</LineStyle>
+	</Style>
+	<Style id="Road_Trail_">
+		<LineStyle>
+			<color>bb000000</color>
+			<width>3</width>
+			<gx:physicalWidth>6</gx:physicalWidth>
+			<gx:outerColor>bbbbffff</gx:outerColor>
+			<gx:outerWidth>0.85</gx:outerWidth>
+		</LineStyle>
+	</Style>
+	<Style id="Road_ATV_">
+		<LineStyle>
+			<color>bb000000</color>
+			<width>6</width>
+			<gx:physicalWidth>8</gx:physicalWidth>
+			<gx:outerColor>bbbbffff</gx:outerColor>
+			<gx:outerWidth>0.75</gx:outerWidth>
+		</LineStyle>
+	</Style>
+	<Style id="Road_Vehicle_">
+		<LineStyle>
+			<color>bbbbffff</color>
+			<width>8</width>
+			<gx:physicalWidth>15</gx:physicalWidth>
+			<gx:outerColor>bbbbffff</gx:outerColor>
+			<gx:outerWidth>0.5</gx:outerWidth>
+		</LineStyle>
+	</Style>
+	<Style id="road_hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="Road">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Road_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#road_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Road_Hike">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Road_Hike_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#road_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Road_Trail">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Road_Trail_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#road_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Road_ATV">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Road_ATV_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#road_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Road_Vehicle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Road_Vehicle_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#road_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+  </Document>
+</kml>

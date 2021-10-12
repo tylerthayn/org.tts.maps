@@ -1,0 +1,1741 @@
+node(3229765488);
+out geom;
+
+node(3298935339);
+out geom;
+
+node(3299494606);
+out geom;
+
+node(3300539381);
+out geom;
+
+node(3300542817);
+out geom;
+
+node(3300543174);
+out geom;
+
+node(3300543864);
+out geom;
+
+node(3300544804);
+out geom;
+
+node(3303393836);
+out geom;
+
+node(3303393839);
+out geom;
+
+node(3303393840);
+out geom;
+
+node(3303394097);
+out geom;
+
+node(3303394219);
+out geom;
+
+node(3303394625);
+out geom;
+
+node(3303852539);
+out geom;
+
+node(3304968614);
+out geom;
+
+node(3304968615);
+out geom;
+
+node(3304969373);
+out geom;
+
+node(3306737183);
+out geom;
+
+node(3306737301);
+out geom;
+
+node(3386171540);
+out geom;
+
+node(3400918681);
+out geom;
+
+node(3400922755);
+out geom;
+
+node(3402804064);
+out geom;
+
+node(3402805179);
+out geom;
+
+node(3404046151);
+out geom;
+
+node(3404046152);
+out geom;
+
+node(3404046979);
+out geom;
+
+node(3404047215);
+out geom;
+
+node(3404167947);
+out geom;
+
+node(3404168558);
+out geom;
+
+node(3297770131);
+out geom;
+
+node(3298416012);
+out geom;
+
+node(3298416073);
+out geom;
+
+node(3298416092);
+out geom;
+
+node(3298416978);
+out geom;
+
+node(3298416993);
+out geom;
+
+node(3298417023);
+out geom;
+
+node(3298417029);
+out geom;
+
+node(3298500696);
+out geom;
+
+node(3298935339);
+out geom;
+
+node(3298939369);
+out geom;
+
+node(3298939421);
+out geom;
+
+node(3299494606);
+out geom;
+
+node(3300539381);
+out geom;
+
+node(3300542817);
+out geom;
+
+node(3300543174);
+out geom;
+
+node(3300543864);
+out geom;
+
+node(3306737183);
+out geom;
+
+node(3306737301);
+out geom;
+
+node(3311027747);
+out geom;
+
+node(3381360291);
+out geom;
+
+node(3383414849);
+out geom;
+
+node(3384532854);
+out geom;
+
+node(3386170185);
+out geom;
+
+node(3386170187);
+out geom;
+
+node(3386171540);
+out geom;
+
+node(3387772284);
+out geom;
+
+node(3387774059);
+out geom;
+
+node(3387774154);
+out geom;
+
+node(3387774167);
+out geom;
+
+node(3389671678);
+out geom;
+
+node(3391697925);
+out geom;
+
+node(3391699729);
+out geom;
+
+node(3391769085);
+out geom;
+
+node(3391769086);
+out geom;
+
+node(3391770930);
+out geom;
+
+node(3394683070);
+out geom;
+
+node(3400918680);
+out geom;
+
+node(3400918681);
+out geom;
+
+node(3400918686);
+out geom;
+
+node(3400918689);
+out geom;
+
+node(3400918690);
+out geom;
+
+node(3400921931);
+out geom;
+
+node(3400922755);
+out geom;
+
+node(3402804063);
+out geom;
+
+node(3402804064);
+out geom;
+
+node(3402805179);
+out geom;
+
+node(3402862697);
+out geom;
+
+node(3403944673);
+out geom;
+
+node(3403945545);
+out geom;
+
+node(3403962627);
+out geom;
+
+node(3404046151);
+out geom;
+
+node(3404046152);
+out geom;
+
+node(3404046979);
+out geom;
+
+node(3404047215);
+out geom;
+
+node(3404167947);
+out geom;
+
+node(3404168558);
+out geom;
+
+node(3425239787);
+out geom;
+
+node(3425239788);
+out geom;
+
+node(3425239791);
+out geom;
+
+node(3425239792);
+out geom;
+
+node(3425272097);
+out geom;
+
+node(3425272109);
+out geom;
+
+way(147235391);
+out geom;
+
+way(147241856);
+out geom;
+
+way(147241862);
+out geom;
+
+way(147260700);
+out geom;
+
+way(148029147);
+out geom;
+
+way(148090499);
+out geom;
+
+way(321213521);
+out geom;
+
+way(323048584);
+out geom;
+
+way(323048587);
+out geom;
+
+way(323099626);
+out geom;
+
+way(323099662);
+out geom;
+
+way(323155710);
+out geom;
+
+way(323155711);
+out geom;
+
+way(323155720);
+out geom;
+
+way(323155722);
+out geom;
+
+way(323155723);
+out geom;
+
+way(323260178);
+out geom;
+
+way(323260181);
+out geom;
+
+way(323260199);
+out geom;
+
+way(323260200);
+out geom;
+
+way(323260203);
+out geom;
+
+way(323260215);
+out geom;
+
+way(323260225);
+out geom;
+
+way(323353181);
+out geom;
+
+way(323553679);
+out geom;
+
+way(323553680);
+out geom;
+
+way(323553681);
+out geom;
+
+way(323553683);
+out geom;
+
+way(323553685);
+out geom;
+
+way(323716229);
+out geom;
+
+way(323716237);
+out geom;
+
+way(323716238);
+out geom;
+
+way(323716239);
+out geom;
+
+way(323716240);
+out geom;
+
+way(323716241);
+out geom;
+
+way(323716246);
+out geom;
+
+way(323900546);
+out geom;
+
+way(323900599);
+out geom;
+
+way(323900608);
+out geom;
+
+way(323900610);
+out geom;
+
+way(323900612);
+out geom;
+
+way(331929588);
+out geom;
+
+way(332972363);
+out geom;
+
+way(333170201);
+out geom;
+
+way(333267697);
+out geom;
+
+way(333270919);
+out geom;
+
+way(333270923);
+out geom;
+
+way(333283606);
+out geom;
+
+way(333283607);
+out geom;
+
+way(333283608);
+out geom;
+
+way(333283609);
+out geom;
+
+way(333283611);
+out geom;
+
+way(333295297);
+out geom;
+
+way(333295300);
+out geom;
+
+way(333513431);
+out geom;
+
+way(333969250);
+out geom;
+
+way(335413435);
+out geom;
+
+way(335413437);
+out geom;
+
+way(664983502);
+out geom;
+
+way(664986053);
+out geom;
+
+way(664986054);
+out geom;
+
+way(664986055);
+out geom;
+
+way(664986056);
+out geom;
+
+way(664986911);
+out geom;
+
+way(664986912);
+out geom;
+
+way(664988417);
+out geom;
+
+way(664988418);
+out geom;
+
+way(664988419);
+out geom;
+
+way(664988420);
+out geom;
+
+way(664988421);
+out geom;
+
+way(664988422);
+out geom;
+
+way(664993815);
+out geom;
+
+way(664993816);
+out geom;
+
+way(664993817);
+out geom;
+
+way(664993818);
+out geom;
+
+way(131408998);
+out geom;
+
+way(131408999);
+out geom;
+
+way(131409000);
+out geom;
+
+way(131409001);
+out geom;
+
+way(131416850);
+out geom;
+
+way(131417598);
+out geom;
+
+way(144615089);
+out geom;
+
+way(144718014);
+out geom;
+
+way(144720465);
+out geom;
+
+way(144738702);
+out geom;
+
+way(144790709);
+out geom;
+
+way(144790714);
+out geom;
+
+way(144790715);
+out geom;
+
+way(144790716);
+out geom;
+
+way(144911354);
+out geom;
+
+way(145224550);
+out geom;
+
+way(145225085);
+out geom;
+
+way(145421365);
+out geom;
+
+way(145422080);
+out geom;
+
+way(145427470);
+out geom;
+
+way(145427471);
+out geom;
+
+way(145561545);
+out geom;
+
+way(145562450);
+out geom;
+
+way(145562456);
+out geom;
+
+way(145732226);
+out geom;
+
+way(145754172);
+out geom;
+
+way(145894326);
+out geom;
+
+way(145913827);
+out geom;
+
+way(145913829);
+out geom;
+
+way(145913831);
+out geom;
+
+way(145913832);
+out geom;
+
+way(145928492);
+out geom;
+
+way(146003136);
+out geom;
+
+way(146003144);
+out geom;
+
+way(146003151);
+out geom;
+
+way(146008481);
+out geom;
+
+way(146008511);
+out geom;
+
+way(146014564);
+out geom;
+
+way(146040007);
+out geom;
+
+way(146040012);
+out geom;
+
+way(146040026);
+out geom;
+
+way(146040032);
+out geom;
+
+way(146040040);
+out geom;
+
+way(146040049);
+out geom;
+
+way(146041248);
+out geom;
+
+way(146041253);
+out geom;
+
+way(146041259);
+out geom;
+
+way(146041266);
+out geom;
+
+way(146041270);
+out geom;
+
+way(146041274);
+out geom;
+
+way(146041278);
+out geom;
+
+way(146159829);
+out geom;
+
+way(146160864);
+out geom;
+
+way(146160865);
+out geom;
+
+way(146160867);
+out geom;
+
+way(146160868);
+out geom;
+
+way(146160870);
+out geom;
+
+way(146160874);
+out geom;
+
+way(146161134);
+out geom;
+
+way(146162257);
+out geom;
+
+way(146162263);
+out geom;
+
+way(146162264);
+out geom;
+
+way(146162265);
+out geom;
+
+way(146162271);
+out geom;
+
+way(146467124);
+out geom;
+
+way(147035907);
+out geom;
+
+way(147126995);
+out geom;
+
+way(147235391);
+out geom;
+
+way(147241856);
+out geom;
+
+way(147241862);
+out geom;
+
+way(147260700);
+out geom;
+
+way(148300662);
+out geom;
+
+way(321213521);
+out geom;
+
+way(322228316);
+out geom;
+
+way(322228317);
+out geom;
+
+way(322228324);
+out geom;
+
+way(322249882);
+out geom;
+
+way(322249883);
+out geom;
+
+way(322249885);
+out geom;
+
+way(322249886);
+out geom;
+
+way(322249887);
+out geom;
+
+way(322249888);
+out geom;
+
+way(322249889);
+out geom;
+
+way(322249890);
+out geom;
+
+way(322265423);
+out geom;
+
+way(322265427);
+out geom;
+
+way(322265442);
+out geom;
+
+way(322265444);
+out geom;
+
+way(322265445);
+out geom;
+
+way(322265446);
+out geom;
+
+way(322265448);
+out geom;
+
+way(322265449);
+out geom;
+
+way(322265450);
+out geom;
+
+way(322265451);
+out geom;
+
+way(322265454);
+out geom;
+
+way(322265456);
+out geom;
+
+way(322265458);
+out geom;
+
+way(322265461);
+out geom;
+
+way(322265462);
+out geom;
+
+way(322293623);
+out geom;
+
+way(322293625);
+out geom;
+
+way(322293626);
+out geom;
+
+way(322369296);
+out geom;
+
+way(322369297);
+out geom;
+
+way(322369298);
+out geom;
+
+way(322369300);
+out geom;
+
+way(322369303);
+out geom;
+
+way(322369306);
+out geom;
+
+way(322369310);
+out geom;
+
+way(322369313);
+out geom;
+
+way(322369317);
+out geom;
+
+way(322369320);
+out geom;
+
+way(322369324);
+out geom;
+
+way(322369327);
+out geom;
+
+way(322369329);
+out geom;
+
+way(322369330);
+out geom;
+
+way(322369332);
+out geom;
+
+way(322369336);
+out geom;
+
+way(322369340);
+out geom;
+
+way(322369343);
+out geom;
+
+way(322369346);
+out geom;
+
+way(322369350);
+out geom;
+
+way(322369352);
+out geom;
+
+way(322369360);
+out geom;
+
+way(322369364);
+out geom;
+
+way(322369367);
+out geom;
+
+way(322369370);
+out geom;
+
+way(322369373);
+out geom;
+
+way(322369375);
+out geom;
+
+way(322369376);
+out geom;
+
+way(322369377);
+out geom;
+
+way(322369378);
+out geom;
+
+way(322369379);
+out geom;
+
+way(322369380);
+out geom;
+
+way(322369381);
+out geom;
+
+way(322369382);
+out geom;
+
+way(322369383);
+out geom;
+
+way(322369384);
+out geom;
+
+way(322369385);
+out geom;
+
+way(322369386);
+out geom;
+
+way(322369387);
+out geom;
+
+way(322369388);
+out geom;
+
+way(322369389);
+out geom;
+
+way(322369390);
+out geom;
+
+way(322369391);
+out geom;
+
+way(322369392);
+out geom;
+
+way(322369393);
+out geom;
+
+way(322369394);
+out geom;
+
+way(322369395);
+out geom;
+
+way(322369396);
+out geom;
+
+way(322369397);
+out geom;
+
+way(322369398);
+out geom;
+
+way(322369399);
+out geom;
+
+way(322369400);
+out geom;
+
+way(322369401);
+out geom;
+
+way(322369402);
+out geom;
+
+way(322369403);
+out geom;
+
+way(322369404);
+out geom;
+
+way(322369405);
+out geom;
+
+way(322369406);
+out geom;
+
+way(322369407);
+out geom;
+
+way(322369408);
+out geom;
+
+way(322369409);
+out geom;
+
+way(322369410);
+out geom;
+
+way(322369411);
+out geom;
+
+way(322369412);
+out geom;
+
+way(322369413);
+out geom;
+
+way(322369415);
+out geom;
+
+way(322369416);
+out geom;
+
+way(322369417);
+out geom;
+
+way(322369418);
+out geom;
+
+way(322369419);
+out geom;
+
+way(322369420);
+out geom;
+
+way(322369421);
+out geom;
+
+way(322369422);
+out geom;
+
+way(322369423);
+out geom;
+
+way(322369424);
+out geom;
+
+way(322369425);
+out geom;
+
+way(322369426);
+out geom;
+
+way(322369427);
+out geom;
+
+way(322369428);
+out geom;
+
+way(322369429);
+out geom;
+
+way(322369430);
+out geom;
+
+way(322369431);
+out geom;
+
+way(322369432);
+out geom;
+
+way(322369433);
+out geom;
+
+way(322369434);
+out geom;
+
+way(322369435);
+out geom;
+
+way(322369436);
+out geom;
+
+way(322369437);
+out geom;
+
+way(322369438);
+out geom;
+
+way(322369440);
+out geom;
+
+way(322369442);
+out geom;
+
+way(322369444);
+out geom;
+
+way(322369445);
+out geom;
+
+way(322369446);
+out geom;
+
+way(322369448);
+out geom;
+
+way(322459876);
+out geom;
+
+way(322459877);
+out geom;
+
+way(322459878);
+out geom;
+
+way(322459879);
+out geom;
+
+way(322459882);
+out geom;
+
+way(322459883);
+out geom;
+
+way(322459884);
+out geom;
+
+way(322459885);
+out geom;
+
+way(322459886);
+out geom;
+
+way(322459889);
+out geom;
+
+way(322459890);
+out geom;
+
+way(322459891);
+out geom;
+
+way(322459892);
+out geom;
+
+way(322459893);
+out geom;
+
+way(322459894);
+out geom;
+
+way(322504967);
+out geom;
+
+way(322504969);
+out geom;
+
+way(322504970);
+out geom;
+
+way(322504971);
+out geom;
+
+way(322504973);
+out geom;
+
+way(322504976);
+out geom;
+
+way(322504978);
+out geom;
+
+way(322504979);
+out geom;
+
+way(322504980);
+out geom;
+
+way(322504981);
+out geom;
+
+way(322504982);
+out geom;
+
+way(322576672);
+out geom;
+
+way(322576675);
+out geom;
+
+way(322576686);
+out geom;
+
+way(322576687);
+out geom;
+
+way(322576698);
+out geom;
+
+way(322576699);
+out geom;
+
+way(322576700);
+out geom;
+
+way(322677144);
+out geom;
+
+way(322677165);
+out geom;
+
+way(322677172);
+out geom;
+
+way(322677173);
+out geom;
+
+way(322677176);
+out geom;
+
+way(322677178);
+out geom;
+
+way(322677186);
+out geom;
+
+way(322677189);
+out geom;
+
+way(322677191);
+out geom;
+
+way(322677194);
+out geom;
+
+way(323041816);
+out geom;
+
+way(323041817);
+out geom;
+
+way(323041819);
+out geom;
+
+way(323041820);
+out geom;
+
+way(323041825);
+out geom;
+
+way(323041826);
+out geom;
+
+way(323041827);
+out geom;
+
+way(323041828);
+out geom;
+
+way(323041829);
+out geom;
+
+way(323041830);
+out geom;
+
+way(323041831);
+out geom;
+
+way(323041832);
+out geom;
+
+way(323041833);
+out geom;
+
+way(323041834);
+out geom;
+
+way(323041835);
+out geom;
+
+way(323048584);
+out geom;
+
+way(323048586);
+out geom;
+
+way(323048587);
+out geom;
+
+way(323099625);
+out geom;
+
+way(323099626);
+out geom;
+
+way(323099628);
+out geom;
+
+way(323099641);
+out geom;
+
+way(323099662);
+out geom;
+
+way(323155710);
+out geom;
+
+way(323155711);
+out geom;
+
+way(323155720);
+out geom;
+
+way(323155722);
+out geom;
+
+way(323155723);
+out geom;
+
+way(323163271);
+out geom;
+
+way(323260178);
+out geom;
+
+way(323260181);
+out geom;
+
+way(323260196);
+out geom;
+
+way(323260199);
+out geom;
+
+way(323260200);
+out geom;
+
+way(323260201);
+out geom;
+
+way(323260203);
+out geom;
+
+way(323260204);
+out geom;
+
+way(323260208);
+out geom;
+
+way(323260213);
+out geom;
+
+way(323260215);
+out geom;
+
+way(323260221);
+out geom;
+
+way(323260223);
+out geom;
+
+way(323260225);
+out geom;
+
+way(323353195);
+out geom;
+
+way(323553679);
+out geom;
+
+way(323553681);
+out geom;
+
+way(323716229);
+out geom;
+
+way(323716238);
+out geom;
+
+way(323900546);
+out geom;
+
+way(324485086);
+out geom;
+
+way(324485092);
+out geom;
+
+way(324485093);
+out geom;
+
+way(324485094);
+out geom;
+
+way(324494929);
+out geom;
+
+way(330994930);
+out geom;
+
+way(331087365);
+out geom;
+
+way(331087366);
+out geom;
+
+way(331087367);
+out geom;
+
+way(331087368);
+out geom;
+
+way(331087369);
+out geom;
+
+way(331087371);
+out geom;
+
+way(331087372);
+out geom;
+
+way(331087373);
+out geom;
+
+way(331087374);
+out geom;
+
+way(331087378);
+out geom;
+
+way(331087380);
+out geom;
+
+way(331087382);
+out geom;
+
+way(331087383);
+out geom;
+
+way(331087384);
+out geom;
+
+way(331087385);
+out geom;
+
+way(331153066);
+out geom;
+
+way(331153074);
+out geom;
+
+way(331226421);
+out geom;
+
+way(331226434);
+out geom;
+
+way(331262061);
+out geom;
+
+way(331262066);
+out geom;
+
+way(331262067);
+out geom;
+
+way(331262070);
+out geom;
+
+way(331282300);
+out geom;
+
+way(331282301);
+out geom;
+
+way(331282305);
+out geom;
+
+way(331282306);
+out geom;
+
+way(331282307);
+out geom;
+
+way(331282308);
+out geom;
+
+way(331282310);
+out geom;
+
+way(331282313);
+out geom;
+
+way(331282315);
+out geom;
+
+way(331282317);
+out geom;
+
+way(331282320);
+out geom;
+
+way(331282361);
+out geom;
+
+way(331282363);
+out geom;
+
+way(331282377);
+out geom;
+
+way(331283703);
+out geom;
+
+way(331308690);
+out geom;
+
+way(331313969);
+out geom;
+
+way(331313970);
+out geom;
+
+way(331313971);
+out geom;
+
+way(331313973);
+out geom;
+
+way(331675639);
+out geom;
+
+way(331675640);
+out geom;
+
+way(331675647);
+out geom;
+
+way(331675649);
+out geom;
+
+way(331675654);
+out geom;
+
+way(331878683);
+out geom;
+
+way(331878685);
+out geom;
+
+way(331878687);
+out geom;
+
+way(331929588);
+out geom;
+
+way(331929601);
+out geom;
+
+way(332059412);
+out geom;
+
+way(332059415);
+out geom;
+
+way(332059416);
+out geom;
+
+way(332059417);
+out geom;
+
+way(332059421);
+out geom;
+
+way(332059422);
+out geom;
+
+way(332059427);
+out geom;
+
+way(332059439);
+out geom;
+
+way(332059479);
+out geom;
+
+way(332066453);
+out geom;
+
+way(332066456);
+out geom;
+
+way(332066457);
+out geom;
+
+way(332066459);
+out geom;
+
+way(332213099);
+out geom;
+
+way(332218083);
+out geom;
+
+way(332352518);
+out geom;
+
+way(332352519);
+out geom;
+
+way(332352520);
+out geom;
+
+way(332972358);
+out geom;
+
+way(332972359);
+out geom;
+
+way(332972360);
+out geom;
+
+way(332972361);
+out geom;
+
+way(332972362);
+out geom;
+
+way(332972363);
+out geom;
+
+way(332972364);
+out geom;
+
+way(333170201);
+out geom;
+
+way(333176393);
+out geom;
+
+way(333176398);
+out geom;
+
+way(333267614);
+out geom;
+
+way(333267641);
+out geom;
+
+way(333267650);
+out geom;
+
+way(333267697);
+out geom;
+
+way(333270919);
+out geom;
+
+way(333270923);
+out geom;
+
+way(333283605);
+out geom;
+
+way(333283606);
+out geom;
+
+way(333283607);
+out geom;
+
+way(333283608);
+out geom;
+
+way(333283609);
+out geom;
+
+way(333283611);
+out geom;
+
+way(333295297);
+out geom;
+
+way(333295300);
+out geom;
+
+way(335413435);
+out geom;
+
+way(335413436);
+out geom;
+
+way(335413437);
+out geom;
+
+way(653336108);
+out geom;
+
+way(664983502);
+out geom;
+
+way(664986053);
+out geom;
+
+way(664986054);
+out geom;
+
+way(664986055);
+out geom;
+
+way(664986056);
+out geom;
+
+way(664986911);
+out geom;
+
+way(664986912);
+out geom;
+
+way(664988417);
+out geom;
+
+way(664988418);
+out geom;
+
+way(664988419);
+out geom;
+
+way(664988420);
+out geom;
+
+way(664988421);
+out geom;
+
+way(664988422);
+out geom;
+
+way(664993815);
+out geom;
+
+way(664993816);
+out geom;
+
+way(664993817);
+out geom;
+
+way(664993818);
+out geom;
+
+

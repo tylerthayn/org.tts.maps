@@ -1,0 +1,24 @@
+
+
+Wellington => US6/I-70	47 minutes	52.9 miles
+US6/I-70 => UT24		10 minutes	9 miles
+UT24 => Hanksville		39 minutes	43.8 miles
+Hanksville => Sawmill Basin Fork	11 minutes	6.5 miles
+
+Sawmill Basin Fork => Birch Creek	23 minutes	10.3 miles
+
+Sawmill Basin Fork => Lonesome Beaver	43 minutes	15.2 miles
+Lonesome Beaver => Wickiup Pass			7 minutes	1.6 miles
+
+Wickiup Pass => Bull Creek Pass			9 minutes	2.7 miles
+Wickiup Pass => Crescent Creek			11 minutes	3.2 miles
+Crescent Creek => Nasty Flat Road		11 minutes	3 miles
+Nasty Flat Road => Bull Creek Pass Road	22 minutes	5.7 miles
+Nasty Flat Road => Bull Creek Pass		10 minutes	2.5 miles
+
+
+Wikiup Pass => Cave Flats			1 hr 36 minutes	21.8 miles
+
+
+
+

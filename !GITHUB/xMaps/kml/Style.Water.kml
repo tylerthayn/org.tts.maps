@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Style id="Spring_">
+		<IconStyle>
+			<scale>0.75</scale>
+			<Icon>
+				<href>images/Spring.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+		<Style id="Spring_hl">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon>
+				<href>images/Spring.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="Waterway_">
+		<LineStyle>
+			<color>bbff0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bbff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Waterway_USGS_">
+		<LineStyle>
+			<color>bbff0000</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bbff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="Spring">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Spring_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Spring_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Waterway">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Waterway_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Waterway_USGS">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Waterway_USGS_</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+</Document>
+</kml>

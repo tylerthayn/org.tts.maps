@@ -1,0 +1,1 @@
+( node["highway"]({{bbox}});  way["highway"]({{bbox}});  relation["highway"]({{bbox}});  node["waterway"]({{bbox}});  way["waterway"]({{bbox}});  relation["waterway"]({{bbox}});  way["intermittent"]({{bbox}}););out body; skel qt; 

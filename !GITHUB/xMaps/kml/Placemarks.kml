@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name/>
+    <Placemark>
+      <name>Mount Ellen</name>
+      <styleUrl/>
+      <ExtendedData>
+        <Data name="@id">
+          <value>node/8303340546</value>
+        </Data>
+        <Data name="ele">
+          <value>3512</value>
+        </Data>
+        <Data name="fixme">
+          <value>fix position, fix elevation</value>
+        </Data>
+        <Data name="name">
+          <value>Mount Ellen</value>
+        </Data>
+        <Data name="natural">
+          <value>peak</value>
+        </Data>
+        <Data name="wikidata">
+          <value>Q8525257</value>
+        </Data>
+        <Data name="wikipedia">
+          <value>en:Mount Ellen (Utah)</value>
+        </Data>
+        <Data name="natural">
+          <value>peak</value>
+        </Data>
+        <Data name="wikidata">
+          <value>Q22073355</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>

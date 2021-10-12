@@ -1,0 +1,24 @@
+Kml
+==========
+	new (xmlString)
+	new (path)
+	new (kmlObject)
+	new (FeatureCollection)
+	new (Feature)
+
+	Export()
+	Save(path)
+
+	Styles
+	==========
+		Clear
+		Apply
+
+
+	Placemark
+	==========
+		Tags{}
+		IsRoad
+		IsWater
+		ToFeature()
+
